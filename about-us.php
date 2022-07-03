@@ -33,13 +33,12 @@ include("include/config.php") ?>
 
 	
 
-	
 <script>
         function initComparisons() {
             var x, i;
-            /*find all elements with an "overlay" class:*/
             x = document.getElementsByClassName("img-comp-overlay");
             for (i = 0; i < x.length; i++) {
+                
                 compareImages(x[i]);
             }
 
@@ -49,9 +48,12 @@ include("include/config.php") ?>
                 w = img.offsetWidth;
                 h = img.offsetHeight;
                 img.style.width = (w / 2) + "px";
+                /*create slider:*/
                 slider = document.createElement("img");
                 slider.setAttribute("class", "img-comp-slider");
                 slider.setAttribute("src","slider.png")
+
+                /*insert slider*/
                 img.parentElement.insertBefore(slider, img);
                 slider.style.top = (h / 2) - (slider.offsetHeight / 2) + "px";
                 slider.style.left = (w / 2) - (slider.offsetWidth / 2) + "px";
@@ -105,7 +107,7 @@ include("include/config.php") ?>
         
         .img-comp-container {
             position: relative;
-            height: 350px;
+            height: 500px;
             /*should be the same height as the images*/
         }
         
@@ -122,21 +124,7 @@ include("include/config.php") ?>
         }
         
         .img-comp-slider {
-            /* position: absolute;
-            z-index: 9;
-            cursor: col-resize;
-            set the appearance of the slider:
-            width: 20px;
-            height: 20px;
-            background-color: white; 
-            border: solid black;
-            border-width: 5px;
-            opacity: 0.2;
-            border-radius: 0%;
-            transform: rotate(45deg);
-  -webkit-transform: rotate(-135deg); */
-           
-
+            
   position: absolute; 
   width: 40px; 
   height: 100%; 
@@ -149,11 +137,20 @@ include("include/config.php") ?>
         z-index:1;   
         font-weight:500;
         }
-        
-        
-        
+
+        @media (max-width:1024px){
+          .imgComp {
+               width:350px !important;
+               height:350px !important;
+          }
+          .img-comp-container {
+            height: 350px !important;
+            cursor: col-resize !important;
+        }
+      	}
 
  </style>
+
  
 
 <style>
@@ -332,54 +329,54 @@ include("include/config.php") ?>
 <!--ddd-->
 <section class="about">
 <div class="container">
-                <div class="row">
+<div class="row">
 
-                  <div class="col-xl-6 mt-3 " id="sliderCompImg">
-                    <div class="img-comp-container" >
-                        <div class="img-comp-img">
-                             <img style="display: block; vertical-align: middle;" class="imgComp" src="wp-content/uploads/2020/10/safety1-min.jpg" width="500px" height="500px">
-                        </div>
-                        <div class="img-comp-img img-comp-overlay">
-                            <img style="display: block; vertical-align: middle;" class="imgComp" src="wp-content/uploads/2020/10/safety2-min.webp" width="500px" height="500px">
-                        </div>
-                    </div>
-                  </div>
+<div class="col-xl-6 mt-3 " id="sliderCompImg">
+  <div class="img-comp-container" >
+      <div class="img-comp-img">
+           <img style="display: block; vertical-align: middle;" class="imgComp" src="wp-content/uploads/2020/10/safety1-min.webp" width="500px" height="500px">
+      </div>
+      <div class="img-comp-img img-comp-overlay">
+          <img style="display: block; vertical-align: middle;" class="imgComp" src="wp-content/uploads/2020/10/safety2-min.webp" width="500px" height="500px">
+      </div>
+  </div>
+</div>
 
-                    <div class="col-xl-6">
-                        <div class="about-info py-3" data-aos="fade-up" data-aos-duration="2000">
-                            <h5 class="mb-3">WHO WE ARE</h5>
-                            <h2 class="mb-3">Multi-Specialty Dental Clinic In Pimpri-Chinchwad, Pune</h2>
-                            <p>If you need to know is there a <strong>Best Dentist in pimpri chinchwad</strong> or
-                                <strong>Best Dental Clinic in pimpri chinchwad</strong>. Yes, there is. GoBest Dentist
-                                is a modern, hi-tech, and ISO certified chain of multi-specialty dental clinic in Pune,
-                                India. Headed by Dr. Sana Mokashi it has a team of super specialists that is dedicated
-                                towards delivering all dental treatment under one roof. We strive to provide high
-                                quality, personalized dental care in a relaxing, comfortable, and safe environment.
-                                Lifelong relationships are created with our patients based on trust and honesty.</p>
-                                <div class="row about-point" >
-                                <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="500">
-                                    <div class="point" style="text-align:center;"><a href="#." class="btn">Affordable <br> Dentists</a></div>
-                                </div>
-                                <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="700">
-                                    <div class="point" style="text-align:center;"><a href="#." class="btn">Advanced <br> Techniques</a></div>
-                                </div>
-                                <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="900">
-                                    <div class="point" style="text-align:center;"><a href="#." class="btn">Hygiene Safety <br> priority</a></div>
-                                </div>
-                                <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="1200">
-                                    <div  class="point" style="text-align:center;"><a href="#." class="btn">Advanced <br> Instruments</a></div>
-                                </div>
-                                <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="1500">
-                                    <div class="point" style="text-align:center;"><a href="#." class="btn">Multispecialist <br> Dentists</a></div>
-                                </div>
-                                <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="1800">
-                                    <div class="point" style="text-align:center;"><a href="#." class="btn">Professional <br> Staff</a></div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+  <div class="col-xl-6">
+      <div class="about-info py-3" data-aos="fade-up" data-aos-duration="2000">
+          <h5 class="mb-3">WHO WE ARE</h5>
+          <h2 class="mb-3">Multi-Specialty Dental Clinic In Pimpri-Chinchwad, Pune</h2>
+          <p>If you need to know is there a <strong>Best Dentist in pimpri chinchwad</strong> or
+              <strong>Best Dental Clinic in pimpri chinchwad</strong>. Yes, there is. GoBest Dentist
+              is a modern, hi-tech, and ISO certified chain of multi-specialty dental clinic in Pune,
+              India. Headed by Dr. Sana Mokashi it has a team of super specialists that is dedicated
+              towards delivering all dental treatment under one roof. We strive to provide high
+              quality, personalized dental care in a relaxing, comfortable, and safe environment.
+              Lifelong relationships are created with our patients based on trust and honesty.</p>
+              <div class="row about-point" >
+              <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="500">
+                  <div class="point" style="text-align:center;"><a href="#." class="btn">Affordable <br> Dentists</a></div>
+              </div>
+              <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="700">
+                  <div class="point" style="text-align:center;"><a href="#." class="btn">Advanced <br> Techniques</a></div>
+              </div>
+              <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="900">
+                  <div class="point" style="text-align:center;"><a href="#." class="btn">Hygiene Safety <br> priority</a></div>
+              </div>
+              <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="1200">
+                  <div  class="point" style="text-align:center;"><a href="#." class="btn">Advanced <br> Instruments</a></div>
+              </div>
+              <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="1500">
+                  <div class="point" style="text-align:center;"><a href="#." class="btn">Multispecialist <br> Dentists</a></div>
+              </div>
+              <div class="col-lg-4 col-6" data-aos="fade-up" data-aos-duration="1800">
+                  <div class="point" style="text-align:center;"><a href="#." class="btn">Professional <br> Staff</a></div>
+              </div>
+          </div>
+      </div>
+  </div>
 
-                </div>
+</div>
             </div>
         </section>
 <!--ddd--> 
