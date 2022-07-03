@@ -531,7 +531,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="treat-txtbox">Mouth Ulcers</div>
         </a></li>
       <li><a href="treatment.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/read-more-icon.webp"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/read-more-icon.png"
               alt="best dentist" width="100" height="100"></div>
           <div class="treat-txtbox">View More</div>
         </a></li>
