@@ -475,12 +475,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h1 data-appear-animation="fadeInDown" data-appear-animation-delay="10">SYMPTOMS &amp; TREATMENTS</h1>
     <ul>
       <li><a href="Dental-Cavity-Fillings.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/filling-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/filling-icon.webp"
               alt="nearest dental clinic" width="100" height="100"></div>
           <div class="treat-txtbox">Dental Fillings</div>
         </a></li>
       <li><a href="Root-Canal-Treatment.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/root-canal-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/root-canal-icon.webp"
               alt="nearest dental hospital" width="100" height="100"></div>
           <div class="treat-txtbox">Root Canal Treatment</div>
         </a></li>
@@ -526,12 +526,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </a></li>
 
       <li class="mobile-none"><a href="Full-Mouth-Rehabilitation.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/mouth-ulcers-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/mouth-ulcers-icon.webp"
               alt="best dentist" width="100" height="100"></div>
           <div class="treat-txtbox">Mouth Ulcers</div>
         </a></li>
       <li><a href="treatment.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/read-more-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/read-more-icon.webp"
               alt="best dentist" width="100" height="100"></div>
           <div class="treat-txtbox">View More</div>
         </a></li>
@@ -693,7 +693,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="why text-center">
                             <div class="row">
                                 <div class="col-12">
-                                    <img src="wp-content/themes/clove-child/images/ISO-CERTIFIED.png" alt="Why choose us" class="img-fluid p-xl-2">
+                                    <img src="wp-content/themes/clove-child/images/ISO-CERTIFIED.webp" alt="Why choose us" class="img-fluid p-xl-2">
                                 </div>
                                 <div class="col-12 pl-4 pr-4 pt-2">
                                     <h5>ISO CERTIFIED</h5>
@@ -720,7 +720,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="why text-center">
                             <div class="row">
                                 <div class="col-12 ">
-                                    <img src="wp-content/themes/clove-child/images/SAFETY-&-QUALITY.png" alt="Why choose us" class="img-fluid p-xl-2">
+                                    <img src="wp-content/themes/clove-child/images/SAFETY-&-QUALITY.webp" alt="Why choose us" class="img-fluid p-xl-2">
                                 </div>
                                 <div class="col-12 px-3 pt-2">
                                     <h5>SAFETY & QUALITY</h5>
@@ -1088,7 +1088,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <a href="#.">Get Offer</a>
                             </div>
                             <div class="cta-whitebox ml-auto">
-                                <h2><img class="smile" src="wp-content/themes/clove-child/images/smile.png" alt="image"> Smile At <span
+                                <h2><img class="smile" src="wp-content/themes/clove-child/images/smile.webp" alt="image"> Smile At <span
                                         class="hylyt">Affordable</span> Fees !</h2>
                                 <p style="font-size:15px;margin-bottom:1rem !important;">Free Check Up &amp; Upto 50% Discount On All Dental Treatments | Free Consultation |
                                     Root Canal 50% Flat Discount</p>
