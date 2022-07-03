@@ -602,7 +602,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <h2 class=" offset-xl-2">Know More About Our Success Stories</h2>
                 <div class="row">
                     <div class="col-lg-2 offset-lg-1 col-12 my-lg-0">
-                        <img src="images/ISO-CERTIFIED-logo.png" alt="ISO" class="img-fluid image2">
+                        <img src="images/ISO-CERTIFIED-logo.webp" alt="ISO" class="img-fluid image2">
                     </div>
                     <div class="col-lg-2 col-sm-6 col-5 shiva">
                         <div id="shiva"><span class="counter count">30,000</span> <span class="plus">+</span><p>Happy Patients</p></div>
