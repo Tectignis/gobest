@@ -191,6 +191,7 @@ else {
           <option value="branchwakad@gmail.com">Wakad Branch</option>
           <option value="branchbaner1@gmail.com">Baner Branch</option>
           <option value="branchpimplesaudagar@gmail.com">Pimple Saudagar Branch</option>
+          <option value="branchhinjewadi@gmail.com">Hinjewadi Branch</option>
         </select>
       <textarea name="comments" placeholder="Message here.." id="message" required></textarea>
       <div style="display:flex;">

@@ -1,27 +1,55 @@
+<?php
+include("include/config.php") ?>
 <!DOCTYPE html>
+
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
-<meta http-equiv="content-type" content="text/html;charset=UTF-8" />
+
+
+<!-- Mirrored from clovedental.in/contact-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Mar 2022 11:46:09 GMT -->
+<!-- Added by HTTrack -->
+<meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
+
 <head>
+
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0" />
 <link rel="shortcut icon" href="wp-content/themes/clove/images/favicon.png" type="image/x-icon">
   <title>
-  Akurdi Branch - Gobest Dentist </title>
+  Hinjewadi Branch - Gobest Dentist </title>
   <link rel="profile" href="https://gmpg.org/xfn/11">
+
   <link rel="pingback" href="xmlrpc.php">
+
   <link href="wp-content/themes/clove/css/font-awesome.css" rel="stylesheet">
+
   <link href="wp-content/themes/clove/css/fonts.css" rel="stylesheet" />
+
   <link href="wp-content/themes/clove/css/animations.css" rel="stylesheet">
 
+<!-- <link rel="stylesheet" href="wp-content/themes/clove-child/css/newhome-style.css" type="text/css"> -->
+
 <link rel="stylesheet" href="style-new.css">
+<!-- <link rel="stylesheet" href="css/carousel.min.css"> -->
+<!-- <link rel="stylesheet" href="css/styleindex.css"> -->
+
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js" ></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.min.js" ></script>
 
+
+
+
+
   <link rel="stylesheet" href="wp-content/themes/clove/css/jquery.datetimepicker.css" />
   <link href="https://fonts.googleapis.com/css?family=Satisfy" rel="stylesheet">
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800' rel='stylesheet'>
+
+
+
+
   <link rel="preconnect" href="https://fonts.gstatic.com">
   <link href="https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700;800&display=swap"
     rel="stylesheet">
@@ -50,6 +78,14 @@
   <link rel="stylesheet" href="css/common.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css">
+
+
+
+
+
+
+
+
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
   <script>
     jQuery(document).ready(function () {
@@ -65,6 +101,9 @@
         jQuery(".doctor-overlay").addClass("active");
         jQuery("body").addClass("no-scroll");
       });
+
+
+
 
       var stickyNavTop = jQuery('.head-outer').offset().top;
       var stickyNav = function () {
@@ -83,8 +122,13 @@
       });
     });
   </script>
+
+
+
   <script src="wp-content/themes/clove/js/jquery.js"></script>
   <meta name='robots' content='max-image-preview:large' />
+
+  <!-- This site is optimized with the Yoast WordPress SEO plugin v1.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
   <meta name="description"
     content="Reach out to the Clove Dental Helpline or book an appointment online at Clove Dental here to put all your oral worries away." />
   <link rel="canonical" href="index.html" />
@@ -291,6 +335,9 @@
           return false;
         });
       }
+
+
+
       jQuery(".toggle-menu").click(function () {
         jQuery(".navigation").slideToggle("slow");
         jQuery(this).toggleClass("active");
@@ -676,6 +723,12 @@
           error = error + 3;
 
         }
+
+        /*if(phone1=="8851672425" || phone1=="8178109008" || phone1=='08851672425' || phone1=='08178109008' || phone1=="+918851672425" || phone1=="+918178109008" || phone1=="8268868995"){
+        		$( "#r_app_error1" ).show(); $( "#r_app_error1" ).html( "*The phone number mentioned has been blocked due to multiple unscrupulous requests generated. Kindly use a different phone number to register your request." ); error = error+2;
+        }*/
+
+
         if (error != "") {
           $(".sbt").show();
           return false;
@@ -684,6 +737,9 @@
           return true;
         }
       });
+
+
+
 
       if ($(window).width() < 767) {
         $(".toggle-mbl h4").click(function () {
@@ -733,6 +789,7 @@
     fbq('track', 'Lead');
     /*End Facebook Pixel Code*/
   </script>
+  <!-- Global site tag (gtag.js) - Google Ads: 958029923 -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=AW-958029923"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -744,6 +801,7 @@
 
     gtag('config', 'AW-958029923');
   </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-58837352-1"></script>
   <script>
     window.dataLayer = window.dataLayer || [];
@@ -798,19 +856,21 @@ if(isset($_POST['subm'])){
 $firstname= $_POST['firstname'];
 $lastname = $_POST['lastname'];
 $PhoneNumber= $_POST['PhoneNumber'];
-$branch= $_POST['branch'];
+$email= $_POST['email'];
 $message= $_POST['message'];
 // configure
-$from = 'Enquiry <care@gobestdentist.com>'; 
-$send = ['dr.sanamokashi@gmail.com', 'gobestdentist@gmail.com', 'seniormanager1234@gmail.com','branchakurdi@gmail.com',$branch];
-$sendTo =  implode(',',$send);
-$subject = 'Akurdi Form from Website';
-$fields = array('firstname' => 'firstname', 'lastname' => 'lastname','PhoneNumber' => 'PhoneNumber', 'message' => 'message', 'branch' => 'branch'); // array variable name => Text to appear in email
+$from = 'Enquiry <info@sachinenterprise.in>'; 
+$sendTo = 'Enquiry <maheshniwate10@gmail.com>';
+$subject = 'Pimple Saudagar Form from Website';
+$fields = array('firstname' => 'firstname', 'lastname' => 'lastname','PhoneNumber' => 'PhoneNumber', 'message' => 'message', 'email' => 'email'); // array variable name => Text to appear in email
 $okMessage = '   you! We will respond to you as early as possible. For Quick Confirmation, Call us on 7264889986 and take instant appointment on Call.';
 $errorMessage = 'There was an error while submitting the form. Please try again later';
+
+// let's do the sending
+
 try
 {
-    $emailText = "You have new message from Akurdi form website\n=============================\n";
+    $emailText = "You have new message from contact form\n=============================\n";
 
     foreach ($_POST as $key => $value) {
 
@@ -821,6 +881,7 @@ try
 
     mail($sendTo, $subject, $emailText, "From: " . $from);
     echo "<script>window.location.href='thankyou.php';</script>";
+    // $responseArray = array('type' => 'success', 'message' => $okMessage);
 }
 catch (\Exception $e)
 {
@@ -829,8 +890,10 @@ catch (\Exception $e)
 
 if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest') {
     $encoded = json_encode($responseArray);
-        echo "alert('ppppp')";
-    header("location:dentist-near-me-akurdi-nigdi-pradhikaran.php.");
+    
+    //header('Content-Type: application/json');
+    echo "alert('ppppp')";
+    header("location:best-dentist-in-pimple-saudagar.php.");
     
     echo $encoded;
 }
@@ -983,7 +1046,7 @@ else {
         srcset="https://clovedental.in/wp-content/uploads/2017/03/img_banner.jpg 1920w, https://clovedental.in/wp-content/uploads/2017/03/img_banner-300x17.jpg 300w, https://clovedental.in/wp-content/uploads/2017/03/img_banner-768x44.jpg 768w, https://clovedental.in/wp-content/uploads/2017/03/img_banner-1024x59.jpg 1024w"
         sizes="(max-width: 1920px) 100vw, 1920px" />
       <div class="overlay">
-        <h1>Akurdi Branch Address</h1>
+        <h1>Hinjewadi Branch Address</h1>
       </div>
     </div>
     <style>
@@ -1016,6 +1079,12 @@ else {
 
       }
     </style>
+
+
+
+
+
+
 <style>
 div.background {
   background: url(assets/img/1.jpg)no-repeat center;
@@ -1106,6 +1175,11 @@ html {
 }
 
 </style>
+
+
+
+
+
     <script type="application/ld+json">
       {
         "@context": "http://schema.org/",
@@ -1139,22 +1213,28 @@ html {
 }
 </style>
 
+
+    <!-- <div class="mask1">
+    <img src="assets/img/research-image/1.jpg" alt="Avatar" class="rounded" style="width:100%; height: 400px;">
+</div> -->
 <section class="root p-2">
             <div class="container">
             <div class="root-info ">
-    <h2 style="font-family: Anton, sans-serif; font-size:50px; line-height:200%;  text-shadow: 2px 1px #fe235b;" class="m-0 p-0 text-center" >Gobest Dentist In Akurdi.</h2>
+    <h2 style="font-family: Anton, sans-serif; font-size:50px; line-height:200%;  text-shadow: 2px 1px #fe235b;" class="mb-3 text-center" >Gobest Dentist In Hinjewadi .</h2>
     </div>
-    <div class="row m-0 p-0">
+    <div class="row">
     <div class="col-lg-4">
-                    <div class="root-info py-2">
+                        <div class="root-info py-2">
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3">Address:</h2>
-                            <h5 style="font-family: 'Lora', sans-serif;font-family: 'Muli', sans-serif; font-size:20px; line-height: 200%;" class="mb-3">R K Apartment, Near Akurdi Sabji Mandai, Lane Number 4, Vivek Nagar, Akurdi, Pimpri-Chinchwad, Maharashtra 411035</h5>
+                            <h5 style="font-family: 'Lora', sans-serif;font-family: 'Muli', sans-serif; font-size:20px; line-height: 200%;" class="mb-3">KB Heights, Near Bharat Petroleum, opp. Gold Gym, Hinjewadi, Pune, MH-411057</h5>
                         </div>
                     </div>
 
                     <div class="col-lg-8">
                     <div class="root-img pb-5">
-                          <iframe id="akurdi" style="border:black;" class="tabcontent border rounded border-secondary" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3780.283122167295!2d73.77923291437065!3d18.651286970032448!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2b9daea121625%3A0xca107f7a00fa4ca4!2sMokashi%20Dental%20Clinic%2C%20Akurdi!5e0!3m2!1sen!2sin!4v1621339077398!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <iframe id="pimple" style="border:black;" class="tabcontent border rounded border-secondary" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3781.514356516996!2d73.74008!3d18.595920900000007!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bc2bbddeb629c77%3A0x66a7aa789b024d7d!2sGo-Best%20Dentist%2C%20Hinjewadi!5e0!3m2!1sen!2sin!4v1656677144789!5m2!1sen!2sin"  width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                            <!-- <iframe id="pimple" style="border:black;" class="tabcontent border rounded border-secondary"  src="https://www.google.com/maps/place/Ammbir+-+Orritel+Hotel/@18.5959209,73.74008,17z/data=!4m15!1m6!3m5!1s0x3bc2bbddeb629c77:0x66a7aa789b024d7d!2sGo-Best+Dentist,+Hinjewadi!8m2!3d18.5959209!4d73.74008!3m7!1s0x3bc2bbdbd5a58aed:0x847503090008ef5b!5m2!4m1!1i2!8m2!3d18.5969039!4d73.7420579" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe> -->
+
                         </div>
                     </div>
                 </div>
@@ -1303,11 +1383,13 @@ html {
     <div class="col-lg-8">
                         <div class="root-info pb-5">
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3">Fill the Form</h2>
-                            <form method="post" enctype="multipart/form-data">
+                            <!-- <h5 style="font-family: 'Lora', sans-serif;font-family: 'Muli', sans-serif; font-size:28px; line-height: 200%;" class="mb-3">Contact us</h5> -->
+                            <form method="post"  enctype="multipart/form-data">
     <div class="row">
   
       <div class="col-sm-6">
         <div class="form-group">
+          <!--									<label for="form_name" class="lbl_contact">Firstname* </label>-->
           <input id="form_name" type="text" name="firstname" class="form-control"
             placeholder="Enter Your First Name" required="required" data-error="Firstname is required.">
         </div>
@@ -1315,13 +1397,15 @@ html {
   
       <div class="col-sm-6">
         <div class="form-group">
+          <!--									<label for="form_lastname" class="lbl_contact">Lastname *</label>-->
           <input id="form_lastname" type="text" name="lastname" class="form-control"
             placeholder="Enter Your Last Name" required="required" data-error="Lastname is required.">
         </div>
       </div>
       <div class="col-sm-6">
         <div class="form-group">
-        <select class="form-select" name="branch">
+          <!--									<label for="form_email" class="lbl_contact">Email *</label>-->
+          <select class="form-select" name="email">
           <option selected>Select Branch</option>
           <option value="Akurdi Branch">Akurdi Branch</option>
           <option value="Wakad Branch">Wakad Branch</option>
@@ -1329,17 +1413,19 @@ html {
           <option value="Pimple Saudagar Branch">Pimple Saudagar Branch</option>
           <option value="Hinjewadi Branch">Hinjewadi Branch</option>
         </select>
-          
         </div>
       </div>
       <div class="col-sm-6">
         <div class="form-group">
+          <!--									<label for="form_phone" class="lbl_contact">Phone *</label>-->
           <input id="form_phone" type="tel" name="PhoneNumber" class="form-control"
             placeholder="Enter Your Phone" required="required">
         </div>
       </div>
       <div class="col-sm-12">
         <div class="form-group">
+  
+  
           <textarea id="form_message" name="message" class="form-control" placeholder="Your Message"></textarea>
         </div>
       </div>
@@ -1354,12 +1440,20 @@ html {
                     <div class="col-lg-4">
                     <div class="root-info pb-5">
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3">Contact:</h2>
-                            <h5 style="font-family: 'Lora', sans-serif;font-family: 'Muli', sans-serif; font-size:20px; line-height: 200%;" class="mb-3"><i class="bi bi-telephone-fill"></i>&emsp;&emsp;07264889986<br><i class="bi bi-clock">&emsp;&emsp;</i>10 AM – 8 PM</h5>
+                            <h5 style="font-family: 'Lora', sans-serif;font-family: 'Muli', sans-serif; font-size:20px; line-height: 200%;" class="mb-3"><i class="bi bi-telephone-fill"></i>&emsp;&emsp;07264889986<br><i class="bi bi-clock">&emsp;&emsp;</i> 10 AM – 8 PM</h5>
                     </div>
                     </div>
                 </div>
     </div>
     </section>
+    
+
+
+
+    <!--<div class="important_info_icon">
+ <a href="https://clovedental.in/press-release-on-covid-19/"></a>
+<!-- <div class="info"><p>Notice!</p><a href="https://clovedental.in/press-release-on-covid-19/"></a></div> -->
+    <!--</div>-->
     <style>
       .important_info_icon {
         width: 50px;
@@ -1503,6 +1597,25 @@ html {
   
       <!-- Call Us -->
       <a href="tel:+917264889986;" class="phone-btn wow slideInRight ui-btn ui-shadow ui-corner-all " title="Call Us" style="color:#ffffff;"><i class="fa fa-phone"></i></a>
+  
+  
+   <!-- <script type="text/javascript">
+      var $zoho = $zoho || {};
+      $zoho.salesiq = $zoho.salesiq || {
+        widgetcode: "67f9d29d312ddf7613178b444db356b5d4d2bbd9d7b763496d94409bcaaa2f27ffdddbb64bb6596c0cc65b99d53d23ad",
+        values: {},
+        ready: function () {}
+      };
+      var d = document;
+      s = d.createElement("script");
+      s.type = "text/javascript";
+      s.id = "zsiqscript";
+      s.defer = true;
+      s.src = "https://salesiq.zoho.in/widget?plugin_source=wordpress";
+      t = d.getElementsByTagName("script")[0];
+      t.parentNode.insertBefore(s, t);
+      d.write("<div id='zsiqwidget'></div>");
+    </script>-->
     <script>
       $zoho.salesiq.ready = function () {
         {
@@ -1637,7 +1750,16 @@ html {
       });
     </script>
 
+
+
+
+
+
+
+
+
 </body>
+<!-- Mirrored from clovedental.in/contact-us/ by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 03 Mar 2022 11:46:12 GMT -->
 
 </html>
 <script>
@@ -1704,3 +1826,11 @@ html {
  
 <script src="https://maps.googleapis.com/maps/api/js?key=api_key&callback=getData" async defer></script>
 </script> 
+<!--
+Performance optimized by W3 Total Cache. Learn more: https://www.boldgrid.com/w3-total-cache/
+
+Object Caching 140/161 objects using disk
+Database Caching 6/15 queries in 0.043 seconds using disk
+
+Served from: clovedental.in @ 2022-03-03 17:02:33 by W3 Total Cache
+-->

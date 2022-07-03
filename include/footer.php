@@ -30,6 +30,10 @@ h4 {
 					<div class="links-comman-box toggle-mbl h4">
 						<h4 class="h4">Branches</h4>
 						<div class="menu-clove-advantage-container" style="display:block;"><ul id="menu-clove-advantage" class="menu">
+              
+              <!-- <li id="menu-item-3009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3009"><a href="dentist-near-me/index.html">Clove Clinics</a></li> -->
+
+
 <li id="menu-item-12292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12292"><a href="dentist-near-me-akurdi-nigdi-pradhikaran.php" style="font-size:18px !important; color:white;"> Akurdi Branch</a></br>
 <span>
     R K Apartment, Near Akurdi Sabji Mandai, Viveknagar, Akurdi, Pune, MH-411035 
@@ -46,6 +50,10 @@ Sonigara Landmark, Shop No. 302, Kaspate Wasti, Wakad, Pune, MH-411057
 <span>
     Vision 9 Mall, Shop 269, 2nd floor Kunal Icon Rd, Pimple Saudagar, Pune, MH-411027.  
 </span></li>
+<li id="menu-item-7275" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7275"><a href="best-dentist-in-pimple-saudagar.php" style="font-size:18px !important; color:white;"> Hinjewadi Branch</a></br>
+<span>
+KB Heights, Near Bharat Petroleum, opp. Gold Gym, Hinjewadi, Pune, MH-411057.  
+</span></li>
 </ul></div>					</div>
 					<div class="links-comman-box toggle-mbl">
 						<h4>MENU</h4>
@@ -60,6 +68,11 @@ Sonigara Landmark, Shop No. 302, Kaspate Wasti, Wakad, Pune, MH-411057
 					<div class="links-comman-box toggle-mbl">
 						<h4>USEFUL LINKS </h4>
 						<div class="menu-usefull-links-container"><ul id="menu-usefull-links" class="menu"><li id="menu-item-8156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8156"><a href="blog.php">Blogs</a></li>
+<!-- <li id="menu-item-15253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15253"><a href="news-media/index.html">News &#038; Media</a></li> -->
+<!-- <li id="menu-item-8157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8157"><a href="dental-education-videos/index.html">Dental Education Videos</a></li> -->
+<!-- <li id="menu-item-6559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6559"><a href="coupon-policy/index.html">Coupon Policy</a></li> -->
+<!-- <li id="menu-item-9991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9991"><a href="leasing/index.html">Leasing</a></li> -->
+<!-- <li id="menu-item-10785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10785"><a href="journal/index.html">Clove&#8217;s Scientific Journal</a></li> -->
 <li id="menu-item-6779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6779"><a href="privacy_policy.php">Privacy Policy</a></li>
 <li id="menu-item-7288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7288"><a class="toggle1 display">Book An Appointment</a></li>
 <li id="menu-item-13135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13135"><a href="refund_policy.php">Refund &#038; Re-treatment Policy</a></li>
@@ -95,6 +108,10 @@ Sonigara Landmark, Shop No. 302, Kaspate Wasti, Wakad, Pune, MH-411057
 						<h4>Popular Searches</h4>
 						<div class="call-t">
 <ul>
+<!--<li><i class="fa fa-phone" aria-hidden="true"></i> Akurdi <span><a href="tel:00000000"  onclick="ga('send','event','footer','click','website', 1);">00000000</a></span></li>
+<li><i class="fa fa-phone" aria-hidden="true"></i> Wakad <span><a href="tel:00000000"  onclick="ga('send','event','footer','click','website', 1);">00000000</a></span></li>
+<li><i class="fa fa-phone" aria-hidden="true"></i> Baner <span><a href="tel:00000000"  onclick="ga('send','event','footer','click','website', 1);">00000000</a></span></li>
+<li><i class="fa fa-phone" aria-hidden="true"></i> Pimple <span><a href="tel:00000000"  onclick="ga('send','event','footer','click','website', 1);">00000000</a></span></li>-->
 <li id="menu-item-7236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7236"><a href="#">Best Dentist in Wakad  </a></li>
 <li id="menu-item-7236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7236"><a href="#">Best Dentist in Pune </a></li>
 <li id="menu-item-7236" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7236"><a href="#">Best Dentist in Pimpri Chinchwad  </a></li>
@@ -118,11 +135,11 @@ Sonigara Landmark, Shop No. 302, Kaspate Wasti, Wakad, Pune, MH-411057
 				</div>
 				<div class="footer-bottom-box" >
 					<div class="social-network-box"><ul>
-						<li><a href="https://twitter.com/MokashiDental" onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Twitter"><i class="fa fa-twitter-square" style="font-size:xx-large" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.facebook.com/gobestdentist" onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Facebook"><i class="fa fa-facebook-square" style="font-size:xx-large" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.linkedin.com/company/gobestdentist/" onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Linkedin"><i class="fa fa-linkedin-square" style="font-size:xx-large" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.youtube.com/channel/UCFSlQInGSOFRc6E4R1SKUAw" onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Youtube"><i class="fa fa-youtube" style="font-size:xx-large" aria-hidden="true"></i></a></li>
-						<li><a href="https://www.instagram.com/gobestdentist" onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Instagram"><i class="fa fa-instagram" style="font-size:xx-large" aria-hidden="true"></i></a></li>
+						<li><a onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Twitter"><i class="fa fa-twitter-square" style="font-size:xx-large" aria-hidden="true"></i></a></li>
+						<li><a onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Facebook"><i class="fa fa-facebook-square" style="font-size:xx-large" aria-hidden="true"></i></a></li>
+						<li><a onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Linkedin"><i class="fa fa-linkedin-square" style="font-size:xx-large" aria-hidden="true"></i></a></li>
+						<li><a onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Youtube"><i class="fa fa-youtube" style="font-size:xx-large" aria-hidden="true"></i></a></li>
+						<li><a onclick="ga('send','event','footer-social','click-social','website-social', 1);" target="_blank" href="" title="Instagram"><i class="fa fa-instagram" style="font-size:xx-large" aria-hidden="true"></i></a></li>
 						</ul>
 					</div>
 					<p class="copyright">All Rights Reserved - 2022, <span>Go Best Dentist</span></p>
@@ -134,7 +151,7 @@ Sonigara Landmark, Shop No. 302, Kaspate Wasti, Wakad, Pune, MH-411057
 			</div>
 
 
-		<script>(function(w, d) { w.CollectId = "629862db9f8d485e3467b441"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
+			<script>(function(w, d) { w.CollectId = "621efb8fbc2315111d7084e6"; var h = d.head || d.getElementsByTagName("head")[0]; var s = d.createElement("script"); s.setAttribute("type", "text/javascript"); s.async=true; s.setAttribute("src", "https://collectcdn.com/launcher.js"); h.appendChild(s); })(window, document);</script>
 		<script src="js/jsddd.js">
 		    
 		</script>

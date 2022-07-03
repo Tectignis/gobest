@@ -41,7 +41,7 @@
 <div class="side-menu">
     <span class="side-menu-close"><i class="fa fa-times" aria-hidden="true"></i></span>
     <div class="logo-side-menu">
-    <a href="index.php"><img src="wp-content/themes/clove/images/img_logo_new.webp" class="logo1" alt="Go Best Dental Clinic" width="125" height="56"></a>
+    <a href="index.php"><img src="wp-content/themes/clove/images/img_logo_new.png" class="logo1" alt="Go Best Dental Clinic" width="125" height="56"></a>
     </div>
     <div class="side-menu-scroll">
         <div class="menu-scroll-in">
@@ -49,9 +49,10 @@
         
             <div class="common links">
             <ul>
-            <li><a href="about-us.php"><span></span>About us</a></li>
-            <li><a href="careers.php"><span></span>CAREER</a></li>
-            <li><a href="contact-us.php"><span></span>Contact us</a></li>
+            <li><a href="about-us.php"><span><!--<img src="https://clovedental.in/wp-content/themes/clove-child/images/hospital-icon.png" alt="best dental hospital">--></span>About us</a></li>
+            <!--<li><a href="https://clovedental.in/clove-dental-doctors/"><span><!--<img src="https://clovedental.in/wp-content/themes/clove-child/images/doctor-icon2.png" alt="dental doctor near me"></span>Our Doctors</a></li>-->
+            <li><a href="careers.php"><span><!--<img src="https://clovedental.in/wp-content/themes/clove-child/images/career-icon.png" alt="dental clinic in delhi">--></span>CAREER</a></li>
+            <li><a href="contact-us.php"><span><!--<img src="https://clovedental.in/wp-content/themes/clove-child/images/info-icon.png" alt="dentist in delhi">--></span>Contact us</a></li>
             </ul>
             </div>
             <div class="common follow">
@@ -77,6 +78,13 @@
             <div class="col-lg-4 col-md-6 col-7 pdr-0">
                <div class="validateContainer">
                 <form class="form-inline form" style="flex-flow: nowrap;" name="form1" method="post" id="form1"> 
+                  <!--  <div class="form-group">
+                    <div class="input-container">
+                        <div class="validateField">
+                            <input type="text" class="validateRequired validateNumber validateMobileNoLimit" name="PhoneNumber" id="message-input" placeholder="Mobile Number*">
+                        </div>
+                    </div>
+                </div> -->
                 <div class="form-group">
                     <div class="input-container">
                         <div class="">
@@ -86,22 +94,23 @@
                 </div>
 
                 <input type="submit" class="submitBtn checkValidationBtn" name="sub2" value="Submit" data-sitekey="6Lf6h1EcAAAAAMFnv3HckaiAGnSU3DDEBX2OCVok" style="max-width: fit-content;">
+                    <!-- <input type="text" id="number" placeholder="Mobile Number" name="number">  -->
+                    <!-- <button type="submit" class="submitBtn">Submit</button> -->
                 </form>
                 	<?php
 	if(isset($_POST['sub2'])){
 $PhoneNumber= $_POST['PhoneNumber'];
 // configure
-$from = 'Enquiry <care@gobestdentist.com>'; 
-$send = ['dr.sanamokashi@gmail.com', 'gobestdentist@gmail.com', 'seniormanager1234@gmail.com'];
-$sendTo =  implode(',',$send);
-$subject = 'Leave your number pop up form';
+$from = 'Enquiry <info@sachinenterprise.in>'; 
+$sendTo = 'Enquiry <maheshniwate10@gmail.com>';
+$subject = 'Baner Form from Website';
 $fields = array('PhoneNumber' => 'PhoneNumber'); // array variable name => Text to appear in email
 $okMessage = 'thank you! We will respond to you as early as possible. For Quick Confirmation, Call us on 7264889986 and take instant appointment on Call.';
 $errorMessage = 'There was an error while submitting the form. Please try again later';
 
 try
 {
-    $emailText = "You have new message from top bar form website\n=============================\n";
+    $emailText = "You have new message from contact form\n=============================\n";
 
     foreach ($_POST as $key => $value) {
 
@@ -117,6 +126,7 @@ try
 catch (\Exception $e)
 {
     echo "<script>alert('$errorMessage');</script>";
+   // $responseArray = array('type' => 'danger', 'message' => $errorMessage);
 }
 
 if (!empty($_SERVER['HTTP_X_REQUESTED_WITH']) && strtolower($_SERVER['HTTP_X_REQUESTED_WITH']) == 'xmlhttprequest') {
@@ -196,10 +206,14 @@ else {
 	<li id="menu-item-4812" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4817"><a href="dentist-near-me-wakad-hinjewadi-dange-chowk.php" class="a">WAKAD BRANCH</a></li>
 	<li id="menu-item-13791" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13797"><a href="best-dentist-in-baner-pune.php" class="a">BANER BRANCH</a></li>
 	<li id="menu-item-13792" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13797"><a href="best-dentist-in-pimple-saudagar.php" class="a">PIMPLE SAUDAGAR BRANCH</a></li>
+	<li id="menu-item-13793" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13797"><a href="best-dentist-in-hinjewadi.php" class="a">HINJEWADI BRANCH</a></li>
 	</ul>
 </li>
 </ul></div> <div class="mobile-nav">
 <ul>
+<!-- <li class="menu-item "><a href="about-us.php" class="a">About us</a></li> -->
+
+<!-- <li class="menu-item "><a href="careers.php" class="a">CAREER</a></li> -->
 <li class="menu-item "><a href="contact-us.php" class="a">Contact us</a></li>
 </ul>
 </div>
@@ -215,6 +229,12 @@ else {
 </div>
 </div>
 </div>
+<!--<div class="head-gray">
+<ul>
+<li><p href="" title="Book an appointment" class="book-btn toggle1" style="cursor:pointer">
+<i class="fa fa-calendar" aria-hidden="true"></i> <samp>book an <span>appointment</span></samp></p></li></ul>
+<!--<li><a href="javascript:void(0);" class="click-form"><strong><img src="https://clovedental.in/wp-content/themes/clove-child/images/ico_callback.png" alt="dentist nearby" width="20" height="20"></strong><span>Get callback</span></a></li>
+</div>-->
 </div>
 
 
