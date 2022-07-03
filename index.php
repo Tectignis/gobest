@@ -439,7 +439,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
       <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
     </ol>
     <div class="carousel-inner" role="listbox">
-      <div class="carousel-item active"style="background-image: url('wp-content/themes/clove-child/images/banner-1.jpg')">
+      <div class="carousel-item active"style="background-image: url('wp-content/themes/clove-child/images/banner-1.webp')">
       <div class="carousel-caption caption">
                 <h1 class=" hi" style="width: max-content;padding:0 10px"><span>Best Dentist in Pune<br>and Pimpri Chinchwad</span></h1>
               </div>
@@ -447,7 +447,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a href="#" class="btn1 mt-sm-1 toggle1" >Get Offer - Book Now</a>
               </div>
       </div>
-      <div class="carousel-item" style="background-image: url('wp-content/themes/clove-child/images/banner-2.jpg')">
+      <div class="carousel-item" style="background-image: url('wp-content/themes/clove-child/images/banner-2.webp')">
       <div class="carousel-caption caption">
                 <h1 class=" hi" style="width: max-content;padding:0 10px"><span>Our Passion is Designing<br>The Perfect Smile</span></h1>
               </div>
@@ -455,7 +455,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <a href="#" class="btn1 mt-sm-1 toggle1" >Exciting Offer On Appointment </a>
               </div>
       </div>
-      <div class="carousel-item" style="background-image: url('wp-content/themes/clove-child/images/banner-3.jpg')">
+      <div class="carousel-item" style="background-image: url('wp-content/themes/clove-child/images/banner-3.webp')">
       <div class="carousel-caption caption">
                 <h1 class=" hi" style="width: max-content;padding:0 10px"><span>ISO Certified and<br>Awarded Dental Clinic</span></h1>
               </div>
