@@ -531,7 +531,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="treat-txtbox">Mouth Ulcers</div>
         </a></li>
       <li><a href="treatment.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/read-more-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/read-more-icon.webp"
               alt="best dentist" width="100" height="100"></div>
           <div class="treat-txtbox">View More</div>
         </a></li>
@@ -548,7 +548,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   <div class="col-xl-6 mt-3 " id="sliderCompImg">
                     <div class="img-comp-container" >
                         <div class="img-comp-img">
-                             <img style="display: block; vertical-align: middle;" class="imgComp" src="wp-content/uploads/2020/10/safety1-min.jpg" width="500px" height="500px">
+                             <img style="display: block; vertical-align: middle;" class="imgComp" src="wp-content/uploads/2020/10/safety1-min.webp" width="500px" height="500px">
                         </div>
                         <div class="img-comp-img img-comp-overlay">
                             <img style="display: block; vertical-align: middle;" class="imgComp" src="wp-content/uploads/2020/10/safety2-min.webp" width="500px" height="500px">
