@@ -706,7 +706,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="why text-center">
                             <div class="row">
                                 <div class="col-12 ">
-                                    <img src="wp-content/themes/clove-child/images/Advanced-Technology1.png" alt="Why choose us"
+                                    <img src="wp-content/themes/clove-child/images/Advanced-Technology1.webp" alt="Why choose us"
                                         class="img-fluid p-xl-2">
                                 </div>
                                 <div class="col-12 px-3 pt-2">
@@ -745,7 +745,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="carousel-inner" >
                   <div class="carousel-item item active">
                     <div class="img-area text-center">
-                      <img src="wp-content/themes/clove-child/images/Irfan-M.png" class="d-block w-100 " alt="...">
+                      <img src="wp-content/themes/clove-child/images/Irfan-M.webp" class="d-block w-100 " alt="...">
                     </div>
                     <div class="carousel-caption d-md-block" style="position:absolute;bottom:0rem !important">
                       <h3 class="blockquote-footer"><i>Irfan M</i></h3>
@@ -759,7 +759,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                   <div class="carousel-item item">
                     <div class=" img-area text-center">
-                      <img src="wp-content/themes/clove-child/images/Karishma-A.png" class="d-block w-100" alt="...">
+                      <img src="wp-content/themes/clove-child/images/Karishma-A.webp" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-caption d-md-block" style="position:absolute;bottom:0rem !important">
                       <h3 class="blockquote-footer" style="padding:5px;"><i> Karishma A</i></h3>
@@ -771,7 +771,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                   <div class="carousel-item item">
                     <div class="img-area">
-                      <img src="wp-content/themes/clove-child/images/Rafiq-M.png" class="d-block w-100" alt="...">
+                      <img src="wp-content/themes/clove-child/images/Rafiq-M.webp" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-caption d-md-block" style="position:absolute;bottom:0rem !important">
                       <h3 class="blockquote-footer"><i> Rafiq M</i></h3>
@@ -786,7 +786,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                   
                   <div class="carousel-item item">
                     <div class="img-area">
-                      <img src="wp-content/themes/clove-child/images/Rahul-K.png" class="d-block w-100" alt="...">
+                      <img src="wp-content/themes/clove-child/images/Rahul-K.webp" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-caption  d-md-block" style="position:absolute;bottom:0rem !important">
                       <h3 class="blockquote-footer">Rahul K</h3>
@@ -877,7 +877,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                 <div class="row ">
                     <div class="col-lg-3 col-sm-6 col-6 my-4" id="hygn">
                         <div class="machine" data-aos="fade-up" data-aos-duration="800">
-                            <img src="wp-content/themes/clove-child/images/advT1.jpg" alt="" class="img-fluid">
+                            <img src="wp-content/themes/clove-child/images/advT1.webp" alt="" class="img-fluid">
                             <h4 style="fontsize:12px">Rotary Endodontics</h4>
                         </div>
                     </div>
@@ -889,13 +889,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-6 hygn d-sm-flex my-4" id="hygn">
                         <div class="machine" data-aos="fade-up" data-aos-duration="2400">
-                            <img src="wp-content/themes/clove-child/images/advT3.jpg" alt="" class="img-fluid">
+                            <img src="wp-content/themes/clove-child/images/advT3.webp" alt="" class="img-fluid">
                             <h4>CAD CAM & Zirconia </h4>
                         </div>
                     </div>
                     <div class="col-lg-3 col-sm-6 col-6 hygn d-sm-flex my-4" id="hygn">
                         <div class="machine" data-aos="fade-up" data-aos-duration="3000">
-                            <img src="wp-content/themes/clove-child/images/advT4.jpg" alt="" class="img-fluid">
+                            <img src="wp-content/themes/clove-child/images/advT4.webp" alt="" class="img-fluid">
                             <h4>Ultrasonic Cleaning </h4>
                         </div>
                     </div>
