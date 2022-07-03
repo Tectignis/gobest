@@ -931,7 +931,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class=" hygines" data-aos="fade-up" data-aos-duration="2000">
                             <div class="row">
                                 <div class="col-lg-6 ">
-                                    <img src="wp-content/themes/clove-child/images/hygiene1.jpg" alt="hygiene1" class="img-fluid">
+                                    <img src="wp-content/themes/clove-child/images/hygiene1.webp" alt="hygiene1" class="img-fluid">
 
                                     <h4>DISINFECTION</h4>
                                 </div>
@@ -948,7 +948,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="hygines" data-aos="fade-up" data-aos-duration="3000">
                             <div class="row">
                                 <div class="col-lg-6 size">
-                                    <img src="wp-content/themes/clove-child/images/hygiene1_img.png" alt="hygiene1" class="img-fluid">
+                                    <img src="wp-content/themes/clove-child/images/hygiene1_img.webp" alt="hygiene1" class="img-fluid">
 
                                     <h4>ULTRASONIC CLEANING DEVICES</h4>
                                 </div>
