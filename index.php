@@ -679,7 +679,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <div class="why text-center container-fluid">
                             <div class="row">
                                 <div class="col-12">
-                                    <img src="wp-content/themes/clove-child/images/AFFORDABLE-DENTISTS.png" alt="Why choose us"
+                                    <img src="wp-content/themes/clove-child/images/AFFORDABLE-DENTISTS.webp" alt="Why choose us"
                                         class="img-fluid p-xl-2">
                                 </div>
                                 <div class="col-12 pt-2 px-3">
