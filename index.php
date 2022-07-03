@@ -485,42 +485,42 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
           <div class="treat-txtbox">Root Canal Treatment</div>
         </a></li>
       <li><a href="Wisdom-Tooth-Extraction.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/teeth-removal-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/teeth-removal-icon.webp"
               alt="near by dental clinic" width="100" height="100"></div>
           <div class="treat-txtbox">Wisdom Teeth Removal</div>
         </a></li>
       <li><a href="Braces-Orthodontic Treatment.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/braces-aligners-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/braces-aligners-icon.webp"
               alt="best dental clinic near me" width="100" height="100"></div>
           <div class="treat-txtbox">Braces &amp; Aligners</div>
         </a></li>
       <li><a href="Dental-Implants.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/dental-implant-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/dental-implant-icon.webp"
               alt="dental hospital near me" width="100" height="100"></div>
           <div class="treat-txtbox">Dental Implants</div>
         </a></li>
       <li><a href="Flexible-Partial-Complete-Denture.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/dentures-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/dentures-icon.webp"
               alt="dentist in greater noida" width="100" height="100"></div>
           <div class="treat-txtbox">Dentures</div>
         </a></li>
       <li><a href="Crown-and-Bridges.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/crowns-bridges-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/crowns-bridges-icon.webp"
               alt="best dental clinic in delhi" width="100" height="100"></div>
           <div class="treat-txtbox">Bridges &amp; Crowns</div>
         </a></li>
       <li><a href="Children-Pediatric-Dentistry.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/childrens-dentistry-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/childrens-dentistry-icon.webp"
               alt="best dentist in south delhi" width="100" height="100"></div>
           <div class="treat-txtbox">Kids Dentistry</div>
         </a></li>
       <li><a href="Oral-Maxillofacial-Surgery.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/smile-makeover-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/smile-makeover-icon.webp"
               alt="best dentist" width="100" height="100"></div>
           <div class="treat-txtbox">Smile Makeover</div>
         </a></li>
       <li class="mobile-none"><a href="Teeth-Whitening.php">
-          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/teeth-whitening-icon.png"
+          <div class="treat-imgbox"><img src="wp-content/themes/clove-child/images/teeth-whitening-icon.webp"
               alt="best dentist in delhi" width="100" height="100"></div>
           <div class="treat-txtbox">Teeth Whitening</div>
         </a></li>
@@ -800,7 +800,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                   <div class="carousel-item item">
                     <div class="img-area">
-                      <img src="wp-content/themes/clove-child/images/Samir-S.png" class="d-block w-100" alt="...">
+                      <img src="wp-content/themes/clove-child/images/Samir-S.webp" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-caption  d-md-block" style="position:absolute;bottom:0rem !important">
                       <h3 class="blockquote-footer"><i> Samir S</i></h3>
@@ -812,7 +812,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                   <div class="carousel-item item">
                     <div class="img-area">
-                      <img src="wp-content/themes/clove-child/images/Shainaj-M.png" class="d-block w-100" alt="...">
+                      <img src="wp-content/themes/clove-child/images/Shainaj-M.webp" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-caption d-md-block" style="position:absolute;bottom:0rem !important"> 
                       <h3 class="blockquote-footer"><i> Shainaj M</i></h3>
@@ -825,7 +825,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                   <div class="carousel-item item">
                     <div class="img-area">
-                      <img src="wp-content/themes/clove-child/images/Shama-M.png" class="d-block w-100" alt="...">
+                      <img src="wp-content/themes/clove-child/images/Shama-M.webp" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-caption d-md-block" style="position:absolute;bottom:0rem !important">
                       <h3 class="blockquote-footer"><i>  Shama M</i></h3>
@@ -838,7 +838,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
                   <div class="carousel-item item">
                     <div class="img-area">
-                      <img src="wp-content/themes/clove-child/images/Shekhar-M.png" class="d-block w-100" alt="...">
+                      <img src="wp-content/themes/clove-child/images/Shekhar-M.webp" class="d-block w-100" alt="...">
                     </div>
                     <div class="carousel-caption d-md-block" style="position:absolute;bottom:0rem !important">
                       <h3 class="blockquote-footer"><i>Shekhar M</i></h3>
