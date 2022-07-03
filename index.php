@@ -667,7 +667,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 <!--section-->
-<section class="why-choose ">
+<section class="why-choose">
             <div class="container text-center">
 
                 <h5>WHY YOU CHOOSE US</h5>
