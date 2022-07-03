@@ -151,7 +151,7 @@ nav-bar .navigation li a {
 .symt-treatments_h ul li:nth-child(3):after,
 .symt-treatments_h ul li:nth-child(4):after,
 .symt-treatments_h ul li:nth-child(5):after {
-    background: url(wp-content/themes/clove-child/images/top-onepx.jpg) right top no-repeat;
+    background: url(wp-content/themes/clove-child/images/top-onepx.webp) right top no-repeat;
     top: 0;
     content: '';
     position: absolute;
@@ -161,7 +161,7 @@ nav-bar .navigation li a {
 }
 
 .symt-treatments_h ul li:nth-child(6n+1):before {
-    background: url(wp-content/themes/clove-child/images/left-rgt-onepx.jpg) left top no-repeat;
+    background: url(wp-content/themes/clove-child/images/left-rgt-onepx.webp) left top no-repeat;
     width: 64px;
     height: 1px;
     content: '';
