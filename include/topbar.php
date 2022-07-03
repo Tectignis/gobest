@@ -41,7 +41,7 @@
 <div class="side-menu">
     <span class="side-menu-close"><i class="fa fa-times" aria-hidden="true"></i></span>
     <div class="logo-side-menu">
-    <a href="index.php"><img src="wp-content/themes/clove/images/img_logo_new.png" class="logo1" alt="Go Best Dental Clinic" width="125" height="56"></a>
+    <a href="index.php"><img src="wp-content/themes/clove/images/img_logo_new.webp" class="logo1" alt="Go Best Dental Clinic" width="125" height="56"></a>
     </div>
     <div class="side-menu-scroll">
         <div class="menu-scroll-in">
