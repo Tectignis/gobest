@@ -1080,7 +1080,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <?php $link="select * from offer";
     $reviews = mysqli_query($conn,$link);
     while($row = mysqli_fetch_array($reviews)) {?>
-                        <div class="footer-cta d-lg-flex" style="background-image:url(adm/pages/forms/image/<?php echo $row["image"]; ?>)">
+                        <div class="footer-cta d-lg-flex" style="background-image:url(admin/pages/forms/image/<?php echo $row["image"]; ?>)">
                         <?php } ?>
                         
                             <div class="ad-price">
