@@ -1113,7 +1113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <button class="button-50" onclick="openCity(event, 'wakad')">WAKAD <span>BRANCH</span>	</button> 
   <button class="button-50 active" onclick="openCity(event, 'baner')">BANER <span>BRANCH</span></button>
   <button class="button-50" onclick="openCity(event, 'pimple')"><span>PIMPLE</span> SAUDAGAR</button> 
-  <button class="button-50" onclick="openCity(event, 'hinjewadi')"><span>HINJEWADI</span> BRANCH</button> 
+  <button class="button-50" onclick="openCity(event, 'hinjewadi')"><span>HINJEWADI</span> HINJEWADI</button> 
   
 </div>
 
