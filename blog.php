@@ -784,7 +784,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
               foreach($data as $d){
           ?>
 		<li>
-	<a href="blog/fix-smile-best-smile-correction-treatment/index.php"><img width="604" height="270" src="adm/pages/forms/blogimage/<?php echo $d['banner']; ?>" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Best-cosmetic-dentist" loading="lazy" /></a>
+	<a href="blogspev.php?id=<?php echo $d['id']; ?>"><img width="604" height="270" src="adm/pages/forms/blogimage/<?php echo $d['banner']; ?>" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Best-cosmetic-dentist" loading="lazy" /></a>
 	<div class="textbox">
 		<h3><a href="blogspev.php?id=<?php echo $d['id']; ?>"><?php echo $d['title']; ?></a></h3>
 		<p><?php echo $d['shortdesc']; ?></p>

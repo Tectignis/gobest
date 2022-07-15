@@ -1077,11 +1077,11 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 <!-- status elements end here -->
 		<div class="pagination1 video_pagination">
 		<span aria-current="page" class="page-numbers current">1</span>
-<a class="page-numbers" href="page/2/index.php">2</a>
-<a class="page-numbers" href="page/3/index.php">3</a>
+<a class="page-numbers" href="">2</a>
+<a class="page-numbers" href="">3</a>
 <span class="page-numbers dots">&hellip;</span>
-<a class="page-numbers" href="page/12/index.php">12</a>
-<a class="next page-numbers" href="page/2/index.php">next »</a>			<div>
+<a class="page-numbers" href="">12</a>
+<a class="next page-numbers" href="">next »</a>			<div>
 			 			</div>
 		</div><!-- pagination end here -->
    </div>
