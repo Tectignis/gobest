@@ -804,7 +804,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         <div class="root-info py-3">
                             <h5 style="font-family: Anton, sans-serif;" class="mb-3">ROOT CANAL TREATMENT</h5>
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> ‘After all natural tooth is always better’</h2>
-                            <p style="font-size:16px; line-height: 200%;">There is no point in keeping an infection when getting a <a href="\change\Root-Canal-Treatment.php">root canal</a> is as easy as getting a filling.</p>
+                            <p style="font-size:16px; line-height: 200%;">There is no point in keeping an infection when getting a <a href="/Root-Canal-Treatment.php">root canal</a> is as easy as getting a filling.</p>
                             <p style="font-size:16px; line-height: 200%;">Your comfort is our priority! Get your RCT done today.</p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a> 
                         </div>
