@@ -246,7 +246,7 @@ include("include/config.php") ?>
 
 <script defer async src="https://www.googletagmanager.com/gtag/js?id=UA-58837352-1"></script>
 
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Dentists and Dental Clinics Near You | Largest Dental Chain India" />

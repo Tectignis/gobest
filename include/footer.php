@@ -31,7 +31,7 @@ h4 {
 						<h4 class="h4">Branches</h4>
 						<div class="menu-clove-advantage-container" style="display:block;"><ul id="menu-clove-advantage" class="menu">
               
-              <!-- <li id="menu-item-3009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3009"><a href="dentist-near-me/index.html">Clove Clinics</a></li> -->
+              <!-- <li id="menu-item-3009" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3009"><a href="dentist-near-me/index.php">Clove Clinics</a></li> -->
 
 
 <li id="menu-item-12292" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12292"><a href="dentist-near-me-akurdi-nigdi-pradhikaran.php" style="font-size:18px !important; color:white;"> Akurdi Branch</a></br>
@@ -68,11 +68,11 @@ KB Heights, Near Bharat Petroleum, opp. Gold Gym, Hinjewadi, Pune, MH-411057.
 					<div class="links-comman-box toggle-mbl">
 						<h4>USEFUL LINKS </h4>
 						<div class="menu-usefull-links-container"><ul id="menu-usefull-links" class="menu"><li id="menu-item-8156" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8156"><a href="blog.php">Blogs</a></li>
-<!-- <li id="menu-item-15253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15253"><a href="news-media/index.html">News &#038; Media</a></li> -->
-<!-- <li id="menu-item-8157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8157"><a href="dental-education-videos/index.html">Dental Education Videos</a></li> -->
-<!-- <li id="menu-item-6559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6559"><a href="coupon-policy/index.html">Coupon Policy</a></li> -->
-<!-- <li id="menu-item-9991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9991"><a href="leasing/index.html">Leasing</a></li> -->
-<!-- <li id="menu-item-10785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10785"><a href="journal/index.html">Clove&#8217;s Scientific Journal</a></li> -->
+<!-- <li id="menu-item-15253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15253"><a href="news-media/index.php">News &#038; Media</a></li> -->
+<!-- <li id="menu-item-8157" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8157"><a href="dental-education-videos/index.php">Dental Education Videos</a></li> -->
+<!-- <li id="menu-item-6559" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6559"><a href="coupon-policy/index.php">Coupon Policy</a></li> -->
+<!-- <li id="menu-item-9991" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9991"><a href="leasing/index.php">Leasing</a></li> -->
+<!-- <li id="menu-item-10785" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10785"><a href="journal/index.php">Clove&#8217;s Scientific Journal</a></li> -->
 <li id="menu-item-6779" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6779"><a href="privacy_policy.php">Privacy Policy</a></li>
 <li id="menu-item-7288" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7288"><a class="toggle1 display">Book An Appointment</a></li>
 <li id="menu-item-13135" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13135"><a href="refund_policy.php">Refund &#038; Re-treatment Policy</a></li>

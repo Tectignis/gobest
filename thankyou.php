@@ -35,7 +35,7 @@ include("include/config.php") ?><!DOCTYPE html>
 </script>
 <script defer async src="https://www.googletagmanager.com/gtag/js?id=AW-958029923"></script>
 <script defer async src="https://www.googletagmanager.com/gtag/js?id=UA-58837352-1"></script>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Dentists and Dental Clinics Near You | Largest Dental Chain India" />

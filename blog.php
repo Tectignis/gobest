@@ -59,7 +59,7 @@ jQuery(window).scroll(function() {
 <script src="wp-content/themes/clove/js/jquery-ui.js" ></script>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="description" content="Read and upgrade your knowledge about oral health and dentistry here. Subscribe to Clove Dental Blog for the latest updates."/>
-<link rel="canonical" href="blog/index.html" />
+<link rel="canonical" href="blog/index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Clove Dental Blog" />
@@ -70,8 +70,8 @@ jQuery(window).scroll(function() {
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.php" />
 <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" >
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" ></script>
 		<script type="text/javascript">
@@ -108,7 +108,7 @@ var es_data = {"messages":{"es_empty_email_notice":"Please enter email address",
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public5560.js?ver=5.0.4' id='email-subscribers-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/82.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.php" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/82.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.7.2" />
 <link rel='shortlink' href='index287b.html?p=82' />
@@ -784,7 +784,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
               foreach($data as $d){
           ?>
 		<li>
-	<a href="blog/fix-smile-best-smile-correction-treatment/index.html"><img width="604" height="270" src="adm/pages/forms/blogimage/<?php echo $d['banner']; ?>" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Best-cosmetic-dentist" loading="lazy" /></a>
+	<a href="blog/fix-smile-best-smile-correction-treatment/index.php"><img width="604" height="270" src="adm/pages/forms/blogimage/<?php echo $d['banner']; ?>" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Best-cosmetic-dentist" loading="lazy" /></a>
 	<div class="textbox">
 		<h3><a href="blogspev.php?id=<?php echo $d['id']; ?>"><?php echo $d['title']; ?></a></h3>
 		<p><?php echo $d['shortdesc']; ?></p>
