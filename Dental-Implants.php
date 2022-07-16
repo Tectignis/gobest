@@ -859,7 +859,7 @@ These types of implants consists of a metal frame that is inserted into the jawb
                             <h3 style="width:100%; font-family: Anton, sans-serif;" >You are ready to maintain a regular brush/floss routine.</h3>
                             <br>
                             <p style="line-height: 200%;">Whether you have lost your teeth due to deep caries or trauma, we can work together to choose the best implant system for you.</p>
-                            <p style="line-height: 200%;"> Looking for a <strong><a href="Dental-Implants.php" style="text-decoration:none !important; color:black !important;"> painless dental implant specialist in Pimpri Chinchwad?</a></strong></p>
+                            <p style="line-height: 200%;"> Looking for a <strong><a href="Dental-Implants.php" style="text-decoration:none !important; color:white !important;"> painless dental implant specialist in Pimpri Chinchwad?</a></strong></p>
 
                             <a href="javascript:void()" class="btn mt-3 toggle1 display">BOOK YOUR APPOINTMENT </a>
 
