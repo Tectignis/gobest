@@ -815,7 +815,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
               <p  style="font-size:16px; line-height: 200%;" class="moretext">One of the latest achievements in orthodontics is the use of transparent aligners for orthodontic treatment. Aligners (aligners) effectively correct a significant part of bite pathologies, but at the same time they are much more convenient than braces as they are absolutely invisible on the teeth.</p>
 
               <a class="moreless-button" href="javascript:void()">Read more</a>
-              <p  style="font-size:16px; line-height: 200%;">Looking for <strong>Invisalign/Clear Aligners in Pune</strong>?</p>
+              <p  style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Invisalign-Clear-Aligners.php" style="text-decoration:none !important; color:white !important;"> Invisalign/Clear Aligners in Pune</a></strong>?</p>
               <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
         </div>
     </div>
