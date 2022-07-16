@@ -823,7 +823,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
 
-                            <p style="font-size:16px; line-height: 200%;">We provide Revolutionary technology for a painless experience! Looking for a<strong> root canal specialist in Pune?</strong> </p>
+                            <p style="font-size:16px; line-height: 200%;">We provide Revolutionary technology for a painless experience! Looking for a<strong><a href="Root-Canal-Treatment.php" style="text-decoration:none !important; color:black !important;"> root canal specialist in Pune?</a></strong> </p>
                             
 
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
@@ -850,7 +850,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                                 <li><i class="fa fa-plus"></i> Gum swelling.</li>
                                 <li><i class="fa fa-plus"></i> Recurrent pimple on gum.</li>
                             </ul>
-                            <p style="font-size:16px; line-height: 200%;">Ready to be pain free now? Get the best<strong> root canal treatment in PimpriChinchwad</strong>.</p>
+                            <p style="font-size:16px; line-height: 200%;">Ready to be pain free now? Get the best<strong> <a href="Root-Canal-Treatment.php" style="text-decoration:none !important; color:black !important;">root canal treatment in PimpriChinchwad</a></strong>.</p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
 
                         </div>
@@ -907,7 +907,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             </ul>
                             <a class="moreless-button1" href="javascript:void()">Read more</a>
                             <br><br>
-                            <p style="font-size:16px; line-height: 200%;">Unable to chew due to pain? Get a<strong> painless root canal treatment near me</strong>.</p>
+                            <p style="font-size:16px; line-height: 200%;">Unable to chew due to pain? Get a<strong> <a href="Root-Canal-Treatment.php" style="text-decoration:none !important; color:black !important;">painless root canal treatment near me</a></strong>.</p>
                             <p style="font-size:16px; line-height: 200%;">What next?</p>
                             <p style="font-size:16px; line-height: 200%;">It is absolutely imperative to get your RCT treated tooth restored with a<a href="Crown-and-Bridges.php"> crown/bridge</a> to ensure its strength and prevent stress fractures.</p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
