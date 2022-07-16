@@ -824,7 +824,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                           </ul>
                           
                           <p style="font-size:16px; line-height: 200%;">We will offer you the best suitable option as per the type of your stains.</p>
-                          <p style="font-size:16px; line-height: 200%;">Looking for <strong> teeth whitening in Pune</strong>?</p>
+                          <p style="font-size:16px; line-height: 200%;">Looking for <strong>   <a href="index.php" style="text-decoration:none !important; color:black !important;">teeth whitening in Pune</a></strong>?</p>
                           
                           <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                           <br>
@@ -866,7 +866,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
-                            <p style="font-size:16px; line-height: 200%;">Looking for<strong>  <a href="index.php" style="text-decoration:none !important; color:black;"> teeth whitening dentist in Pimpri Chinchwad?</a></strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for<strong>  <a href="index.php" style="text-decoration:none !important; color:black !important;"> teeth whitening dentist in Pimpri Chinchwad?</a></strong></p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                          
 
