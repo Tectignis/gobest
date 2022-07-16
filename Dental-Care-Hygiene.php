@@ -879,7 +879,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h3 style="width:100%; font-family: Anton,sans-serif;"> A pregnant woman should pay more attention to nutrition: the bones of the fetus are formed at 6-8 weeks, and what the expectant mother eats has a direct effect on the baby's teeth.</h3>
 
                             
-                           <p style="line-height: 200%;">Looking for best clinic for <strong>Dental care and hygiene in Pune?</strong></p>
+                           <p style="line-height: 200%;">Looking for best clinic for <strong><a href="Dental-Care-Hygiene.php" style="text-decoration:none !important; color:white !important;">Dental care and hygiene in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a> 
 
                         </div>
@@ -899,7 +899,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         <div class="root-info py-5">
                             <h5 style="font-family: Anton, sans-serif;" class="mb-3">HOW</h5>
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> How can professional teeth cleaning help?</h2>
-                            <p style="font-size:16px; line-height: 200%;">Even with all of the above brushing actions, bacteria, tartar, and inflammation can still spread. This is where our dentists has to deal with. Early detection can save you from <strong><a href="Tooth-Extraction.php">tooth extraction</a></strong>. With professional teeth cleaning, the teeth are cleaned and cared for intensively with special instruments. This comprises several steps:</p>
+                            <p style="font-size:16px; line-height: 200%;">Even with all of the above brushing actions, bacteria, tartar, and inflammation can still spread. This is where our dentists has to deal with. Early detection can save you from <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:white !important;">tooth extraction</a></strong>. With professional teeth cleaning, the teeth are cleaned and cared for intensively with special instruments. This comprises several steps:</p>
                             <ul class="list-style">
                                 <li><i class="fa fa-plus"></i> Thorough investigation</li>
                                 <li><i class="fa fa-plus"></i> Removal of hard and soft deposits such as tartar and plaque</li>
@@ -911,7 +911,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                            <a class="moreless-button1" href="javascript:void()">Read more</a>
                             <br><br>
                             
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong>best dental treatment in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Dental-Care-Hygiene.php" style="text-decoration:none !important; color:white !important;">best dental treatment in Pune?</a></strong></p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
 
                         </div>
@@ -951,7 +951,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                     <p style="font-size:16px; line-height: 200%;">6. Coating the teeth with preparations containing calcium and fluoride to strengthen the enamel of the teeth. </p>
 
-                    <p style="font-size:16px; line-height: 200%;">Looking for <strong>best dental treatment in PimpriChinchwad?</strong></p>
+                    <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Dental-Care-Hygiene.php" style="text-decoration:none !important; color:white !important;">best dental treatment in PimpriChinchwad?</a></strong></p>
                      <a href="contact-us.php" class="btn mt-3">CONTACT US</a>
 
                 </div>
@@ -1012,7 +1012,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
                               data-parent="#accordionEx">
                               <div class="card-body">
-                              Mouthwashes can be used as an adjunct to tooth brushing to freshen breath and manage <a href="javascript:void()">teeth sensitivity</a>  but not as a replacement. Consult our dentists for best recommendation of mouthwash according to your need.
+                              Mouthwashes can be used as an adjunct to tooth brushing to freshen breath and manage <a href="Teeth-Sensitivity.php">teeth sensitivity</a>  but not as a replacement. Consult our dentists for best recommendation of mouthwash according to your need.
                               </div>
                             </div>
 
