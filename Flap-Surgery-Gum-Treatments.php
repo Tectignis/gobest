@@ -1047,7 +1047,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                               <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree4"
                                 aria-expanded="false" aria-controls="collapseThree4">
                                 <h5 style="font-family: Anton, sans-serif;" class="mb-0">
-                                   What if I want to get my <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">tooth extracted?</a></strong> <i class="fa fa-angle-down rotate-icon"></i>
+                                   What if I want to get my <strong>tooth extracted?</strong> <i class="fa fa-angle-down rotate-icon"></i>
                                 </h5>
                               </a>
                             </div>
@@ -1056,7 +1056,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree4"
                               data-parent="#accordionEx">
                               <div class="card-body">
-                                At GoBest Dentist we always prefer to save the natural tooth wherever possible. But if you don’t want to go for periodontal surgery, you can opt for <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">extraction</a></strong> of tooth. We have variety of options for tooth replacement ranging from <strong><a href="Crown-and-Bridges.php" style="text-decoration:none !important; color:black !important;">crown and bridges</a></strong> to <strong>Implants</strong>.
+                                At GoBest Dentist we always prefer to save the natural tooth wherever possible. But if you don’t want to go for periodontal surgery, you can opt for <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">extraction</a></strong> of tooth. We have variety of options for tooth replacement ranging from <strong><a href="Crown-and-Bridges.php" style="text-decoration:none !important; color:black !important;">crown and bridges</a></strong> to <strong><a href="Dental-Implants.php" style="text-decoration:none !important; color:black !important;">Implants</a></strong>.
 
                               </div>
                             </div>
