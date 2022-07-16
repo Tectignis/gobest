@@ -817,7 +817,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h5 style="font-family: Anton, sans-serif;" class="mb-3">WHAT</h5>
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> What is a Dental Crown?</h2>
                             <p style="font-size:16px; line-height: 200%;">A dental crown is like a cap that will cover the part of your tooth visible in the oral cavity. It plays a role in protecting the remaining structure of your tooth while restoring its original shape, size and colour.<br><br>
-                                Looking for<strong> crown and bridge speciality dental clinic in Pune</strong>?</p>
+                                Looking for<strong> <a href="Crown-and-Bridges.php" style="text-decoration:none !important; color:black !important;"> crown and bridge speciality dental clinic in Pune,</a></strong>?</p>
                             
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
 
@@ -1042,7 +1042,7 @@ It is necessary to place the margin of your crown over healthy, sound tooth stru
                             <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
                               data-parent="#accordionEx">
                               <div class="card-body">
-                               Dental crowns can cost more than normal<a href="javascript:void()"> fillings</a> but the cost is worth it. They provide better protection and improved function. At GoBest Dentist, we assure you regarding value for your money.
+                               Dental crowns can cost more than normal<a href="Dental-Cavity-Fillings.php"> fillings</a> but the cost is worth it. They provide better protection and improved function. At GoBest Dentist, we assure you regarding value for your money.
                               </div>
                             </div>
 
