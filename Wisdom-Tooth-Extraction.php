@@ -862,7 +862,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
 
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> wisdom tooth removal in Pimpri,Chinchwad?</strong> </p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> <a href="Wisdom-Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">wisdom tooth removal in Pimpri,Chinchwad?</a></strong> </p>
                             
 
                             <a href="javascript:void()" class="btn mt-3 toggle1 display">BOOK YOUR APPOINTMENT TODAY</a>
