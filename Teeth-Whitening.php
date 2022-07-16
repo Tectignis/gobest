@@ -824,7 +824,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                           </ul>
                           
                           <p style="font-size:16px; line-height: 200%;">We will offer you the best suitable option as per the type of your stains.</p>
-                          <p style="font-size:16px; line-height: 200%;">Looking for <strong>   <a href="index.php" style="text-decoration:none !important; color:black !important;">teeth whitening in Pune</a></strong>?</p>
+                          <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Teeth-Whitening.php" style="text-decoration:none !important; color:black !important;"> teeth whitening in Pune</a></strong>?</p>
                           
                           <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                           <br>
@@ -866,7 +866,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
-                            <p style="font-size:16px; line-height: 200%;">Looking for<strong>  <a href="index.php" style="text-decoration:none !important; color:black !important;"> teeth whitening dentist in Pimpri Chinchwad?</a></strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for<strong>  <a href="Teeth-Whitening.php" style="text-decoration:none !important; color:black !important;"> teeth whitening dentist in Pimpri Chinchwad?</a></strong></p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                          
 
@@ -932,7 +932,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                                                 </ul>
                                                
                                        <a class="moreless-button2" href="javascript:void();">Read More</a>
-                                       <p style="font-size:16px; line-height: 200%;">Looking for <strong> affordable teeth whitening cost in Pune?</strong></p>
+                                       <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Teeth-Whitening.php" style="text-decoration:none !important; color:black !important;"> affordable teeth whitening cost in Pune?</a></strong></p>
                                        <a href="tel:+917264889986;" class="btn mt-3">CALL US NOW </a>
                                     
                                     </div>
@@ -968,7 +968,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                                 <li><i class="fa fa-plus"></i> Visit our friendly dentists at GoBest Dentist regularly for check ups.</li>
                                 
                             </ul>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> teeth whitening treatment in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Teeth-Whitening.php" style="text-decoration:none !important; color:black !important;">  teeth whitening treatment in Pune?</a></strong></p>
                             <a href="tel:+917264889986;" class="btn mt-3">CALL US NOW </a>
 
                         </div>
