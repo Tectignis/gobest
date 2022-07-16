@@ -807,7 +807,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <p style="font-size:18px; line-height: 200%;" class="moretext">Although children have milk teeth, it is very essential to teach them proper oral hygiene habits that they must follow daily. It is essential that they learn to take care of the health of their oral cavity from a very young age in order to prevent dental problems in the future.<br>In addition, the health of permanent teeth is closely related to the state of children's mouths. For this reason, it is essential that they know how to take care of their teeth from their childhood. Thus, they will avoid suffering anomalies or diseases that may affect their dental development.</p>
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
-                            <p style="font-size:18px; line-height: 200%;">Looking for <strong> children dentist in Pune?</strong></p>
+                            <p style="font-size:18px; line-height: 200%;">Looking for <strong><a href="Children-Pediatric-Dentistry.php" style="text-decoration:none !important; color:black !important;"> children dentist in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
                         </div>
                     </div>
@@ -852,7 +852,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         <li><b>4. Fluoride application</b><br>
                           
                                      <p style="font-size:18px; line-height: 200%;">This technique includes application of fluoride to the child’s teeth, a method that is usually carried out to harden the enamel of the teeth and allow children to have strong and healthy teeth.</p>
-                                     <p style="font-size:18px; line-height: 200%;">Looking for <strong> best paediatric dentist in Pune?</strong></p>
+                                     <p style="font-size:18px; line-height: 200%;">Looking for <strong> <a href="Children-Pediatric-Dentistry.php" style="text-decoration:none !important; color:black !important;"> best paediatric dentist in Pune?</a></strong></p>
                        <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
                         </li><br><br>
                      
@@ -869,13 +869,13 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         </div></div>
                                  <div class="col-lg-7">
                                  <div class="root-info py-3">
-                                     <p style="font-size:18px; line-height: 200%;">These prostheses are used when young children lose a tooth or it is removed due to a large cavity. As the name implies, it is to conserve space for the future definitive piece. <br>They are made to measure by the dentist or orthodontist of acrylic or metallic material and can be removable or fixed. If the space of the missing tooth is not maintained, those that come out can move towards the open space and later originate an <strong>orthodontic treatment</strong>.<br>These are some of the most common paediatric dentistry treatments performed in the dentist's office. It is important that, at least once a year, you take your son or daughter to the annual check-up to check their oral health. </p>
+                                     <p style="font-size:18px; line-height: 200%;">These prostheses are used when young children lose a tooth or it is removed due to a large cavity. As the name implies, it is to conserve space for the future definitive piece. <br>They are made to measure by the dentist or orthodontist of acrylic or metallic material and can be removable or fixed. If the space of the missing tooth is not maintained, those that come out can move towards the open space and later originate an <strong><a href="Braces-Orthodontic Treatment.php" style="text-decoration:none !important; color:black !important;"> orthodontic treatment</a></strong>.<br>These are some of the most common paediatric dentistry treatments performed in the dentist's office. It is important that, at least once a year, you take your son or daughter to the annual check-up to check their oral health. </p>
                                      <p style="font-size:18px; line-height: 200%;" class="moretext1">Proper prevention is essential for permanent teeth to grow healthy and strong in the future.
 <br>Visiting a dentist annually is essential to ensure that your child is in strong and safe health. In addition, it is the responsibility of the parents to instruct them in the daily care and hygiene of the teeth, so do not miss it!
 <br>Baby teeth are more important than we think as they contribute to the development of future teeth, bones and jaw muscles.
 </p>
                             <a class="moreless-button1" href="javascript:void()">Read more</a>
-                            <p style="font-size:18px; line-height: 200%;"><strong>Best kids dentist near me?</strong></p>
+                            <p style="font-size:18px; line-height: 200%;"><strong<a href="Children-Pediatric-Dentistry.php" style="text-decoration:none !important; color:black !important;"> >Best kids dentist near me?</a></strong></p>
                        <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                                     </div>
                                     </div>
