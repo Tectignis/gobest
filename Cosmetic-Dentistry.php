@@ -894,7 +894,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                            <a class="moreless-button1" href="javascript:void()">Read more</a>
                             <br><br>
                             
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong>best cosmetic dentist in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Cosmetic-Dentistry.php" style="text-decoration:none !important; color:black !important;">best cosmetic dentist in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US</a>
 
                         </div>
@@ -961,7 +961,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                 <p style="font-size:16px; line-height: 200%;">Composite is a tooth coloured filling material which is superior to amalgam (silver) filling in terms of both appearance as well as safety since it is a mercury free material. It can be used to correct minor damage and gaps between the teeth.</p>
                 <p style="font-size:16px; line-height: 200%;" class="moretext4">It is a quick and a reliable way to fix minor defects and can perfectly customized to match the exact shade of your natural teeth. It is a minimally invasive procedure which means major part of your natural tooth will remain intact. But there is one drawback of composite filling that it is not as strong as a silver amalgam filling for very large defects. However majority of the defects can safely be restored by using composite fillings.</p>
                 <a class="moreless-button4" href="javascript:void()">Read more</a><br><br>
-                <p style="font-size:16px; line-height: 200%;">Looking for <strong>best cosmetic dentistry in Pune?</strong></p>
+                <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Cosmetic-Dentistry.php" style="text-decoration:none !important; color:black !important;">best cosmetic dentistry in Pune?</a></strong></p>
                 <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT</a>
                 </div>
             </div>
@@ -974,7 +974,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                 <p style="font-size:16px; line-height: 200%;">Everyone does not have a perfect gum line. Some have it high, some are low and some may have uneven gum line. At GoBest Dentist we have options to correct your gum line by a simple surgical procedure of sculpting your gums.</p>
                 <p style="font-size:16px; line-height: 200%;" class="moretext5">The entire procedure is carried out after numbing the concerned area so you will not feel any pain. We use a soft tissue laser to remove excess gum tissue or to reshape it. Sutures might be needed to hold the gums into the new position. You might feel a little tenderness over the area after the numbness wards off but it can be easily managed by medications.</p>
                 <a class="moreless-button5" href="javascript:void()">Read more</a><br><br>
-                <p style="font-size:16px; line-height: 200%;">Looking for <strong>cosmetic dentist in Pune?</strong></p>
+                <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Cosmetic-Dentistry.php" style="text-decoration:none !important; color:black !important;">cosmetic dentist in Pune?</a></strong></p>
                 <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT</a>
                 </div>
             </div>
