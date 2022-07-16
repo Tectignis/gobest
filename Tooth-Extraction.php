@@ -814,7 +814,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             </ul>
                             <p style="font-size:16px; line-height: 200%;">In addition to the above mentioned causes, a person who has to undergo a chemotherapy or an organ transplant, may require removal of teeth that can cause problem. This is because we cannot perform any extraction till a minimum of 6 months after a chemotherapy.</p>
 
-                            <p style="font-size:16px; line-height: 200%;">Looking for a painless <strong>tooth extraction in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for a painless <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">tooth extraction in Pune?</a></strong></p>
                             
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
 
@@ -875,7 +875,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <br><br>
 
 
-                            <p style="font-size:16px; line-height: 200%;">Worried about pain? Get best <strong>tooth extraction treatment in Pune</strong>.</p>
+                            <p style="font-size:16px; line-height: 200%;">Worried about pain? Get best <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">tooth extraction treatment in Pune</a></strong>.</p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
 
                         </div>
@@ -934,7 +934,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                            <a class="moreless-button2" href="javascript:void()">Read more</a>
                             <br><br>
                             
-                            <p style="font-size:16px; line-height: 200%;">Looking for<strong> Tooth extraction treatment in PimpriChinchwad?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for<strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;"> Tooth extraction treatment in PimpriChinchwad?</a></strong></p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                         </div>
                     </div>
@@ -1108,9 +1108,9 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                               data-parent="#accordionEx">
                               <div class="card-body">
                                     <ul class="list-style">
-                                        <li><i class="fa fa-plus"></i> <a href="#"> Dental Implants</a></li>
-                                        <li><i class="fa fa-plus"></i> <a href="javascript:void()"> Removable partial dentures</a></li>
-                                        <li><i class="fa fa-plus"></i> <a href="javascript:void()"> Fixed bridges</a></li>
+                                        <li><i class="fa fa-plus"></i> <a href="Dental-Cavity-Fillings.php"> Dental Implants</a></li>
+                                        <li><i class="fa fa-plus"></i> <a href="Flexible-Partial-Complete-Denture.php"> Removable partial dentures</a></li>
+                                        <li><i class="fa fa-plus"></i> <a href="Crown-and-Bridges.php"> Fixed bridges</a></li>
 
                                     </ul>
                               </div>
