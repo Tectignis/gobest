@@ -827,7 +827,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> What are Dental x-rays?</h2>
                             <p style="font-size:16px; line-height: 200%;">Dental x-rays are images taken by the dentist to examine the structures of your teeth and surrounding hard tissues which cannot be seen by naked eyes. Very low level of radiation is used to capture these images.</p>
                              
-                                <p style="font-size:16px; line-height: 200%;"><strong>Looking for dental x-ray treatment in Pune?</strong></p>
+                                <p style="font-size:16px; line-height: 200%;"><strong><a href="Dental-X-Ray.php" style="text-decoration:none !important; color:black !important;">Looking for dental x-ray treatment in Pune?</a></strong></p>
                                 
                             <a href="tel:+917264889986;" class="btn mt-3">CALL US NOW</a>
 
@@ -855,7 +855,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h5 style="font-family: Anton, sans-serif;" class="mb-3">WHY</h5>
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> Why are Dental x-rays needed?</h2>
                             <p style="font-size:16px; line-height: 200%;">If you are a new patient, we will need an x-ray to get a clear picture of your oral health.<br>
-                            Sometimes you might need yearly x-rays to track the progress your dental disease or treatment like <strong>orthodontic treatment</strong>.</p>
+                            Sometimes you might need yearly x-rays to track the progress your dental disease or treatment like <strong><a href="Braces-Orthodontic Treatment.php" style="text-decoration:none !important; color:black !important;">orthodontic treatment</a></strong>.</p>
                             <p style="font-size:16px; line-height: 200%;" class="moretext1">Dental X-rays play an important role as they make the entire picture clear. Structures beyond gums like roots and bone composition cannot be seen with naked eyes. X-rays helps us identify problems in them before they reach to an advanced stage and cause more destruction.</p>
                             <a class="moreless-button1" href="javascript:void()">Read more</a>
                             <br><br>
@@ -874,7 +874,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                            
                            <ul class="list-style">
                             <li><i class="fa fa-plus"></i> Small decay not visible to naked eyes especially those between the teeth.
-                            <li><i class="fa fa-plus"></i> Decay between <strong>dental fillings</strong>.</li>
+                            <li><i class="fa fa-plus"></i> Decay between <strong><a href="Dental-Implants.php" style="text-decoration:none !important; color:black !important;">dental fillings</a></strong>.</li>
                             <li><i class="fa fa-plus"></i> Level of bone between teeth.</li>
                             <li><i class="fa fa-plus"></i> Changes in bone due to a dental infection.</li>
                             <li><i class="fa fa-plus"></i> Detect developmental anomalies like cysts and tumors.</li>
@@ -895,7 +895,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> What are the types of dental x-rays?</h2>
                             <p style="font-size:16px; line-height: 200%;">There are two main types of dental x-rays:</p>
                             <p style="font-size:16px; line-height: 200%;">1.   Intra-oral x-rays</p>
-                            <p style="font-size:16px; line-height: 200%;">These are the types of x-rays recorded by placing the film inside the mouth. These are the most common types of x-rays used in a dental clinic. They can detect many problems from decay to dental development to health of your jawbone. They are used at various stages of <strong><a href="Root-Canal-Treatment.php">root canal treatment</a></strong> to determine the progress.</p>
+                            <p style="font-size:16px; line-height: 200%;">These are the types of x-rays recorded by placing the film inside the mouth. These are the most common types of x-rays used in a dental clinic. They can detect many problems from decay to dental development to health of your jawbone. They are used at various stages of <strong><a href="Root-Canal-Treatment.php" style="text-decoration:none !important; color:black !important;">root canal treatment</a></strong> to determine the progress.</p>
                             <p style="font-size:16px; line-height: 200%;">2.   Extra-oral x-rays</p>
                             <p style="font-size:16px; line-height: 200%;">These are the types of x-rays recorded by placing the film outside the mouth. The main areas of focus for an extra oral x-ray is the entire jaw and skull and not individual teeth. Therefore they cannot be used to detect small cavities but detect lesions in jaw bones and proper functioning of the joint (Temporomandibular Joint).<br>These X-rays are further divided into various types.</p>
                             <p style="font-size:16px; line-height: 200%;" class="moretext2"><i class="fa fa-plus"></i><b>  Types of Intra-oral x-rays:</b><br>
