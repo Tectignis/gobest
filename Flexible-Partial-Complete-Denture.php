@@ -886,7 +886,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                     <div class="col-lg-7">
                         <div class="root-info py-4">
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> Implant supported dentures</h2>
-                            <p style="font-size:16px; line-height: 200%;">Unlike conventional removable prosthetics, the installation of a removable prosthesis on <strong>implants</strong> guarantees you a firm fixation of the prosthesis. Your jaw bone is fitted with several implants, on which the jaw prosthesis is fixed with the help of special fasteners - beam locks or buttons.</p>
+                            <p style="font-size:16px; line-height: 200%;">Unlike conventional removable prosthetics, the installation of a removable prosthesis on <strong><a href="Flexible-Partial-Complete-Denture.php" style="text-decoration:none !important; color:black !important;">implants</a></strong> guarantees you a firm fixation of the prosthesis. Your jaw bone is fitted with several implants, on which the jaw prosthesis is fixed with the help of special fasteners - beam locks or buttons.</p>
                            
                             <p style="font-size:16px; line-height: 200%;" class="moretext4">You can easily unfasten the prosthesis for hygiene with a simple movement, but the prosthesis does not spontaneously jump off and is firmly held in place. This solves many problems that are present when wearing conventional removable dentures - you can chew freely, there is no deterioration in diction, gag reflex.
                             </p>
@@ -916,7 +916,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             Dentures made from this material are aesthetically pleasing and very comfortable, as they take up little space in the oral cavity. </p>
                             <a class="moreless-button5" href="javascript:void()">Read more</a>
                             <br><br>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> flexible partial denture in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> <a href="Flexible-Partial-Complete-Denture.php" style="text-decoration:none !important; color:black !important;">flexible partial denture in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US</a>
                         </div>
                     </div>
