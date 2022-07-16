@@ -818,7 +818,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                            <a class="moreless-button" href="javascript:void()">Read more</a><br><br>
 
-                           <p style="font-size:16px; line-height: 200%;">Looking for <strong>Full mouth rehabilitation surgery in Pune?</strong></p>
+                           <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Full-Mouth-Rehabilitation.php" style="text-decoration:none !important; color:black !important;">Full mouth rehabilitation surgery in Pune?</a></strong></p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
 
                         </div>
@@ -851,7 +851,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                             <a class="moreless-button1" href="javascript:void()">Read more</a><br><br>
 
-                           <p style="font-size:16px; line-height: 200%;">Looking for <strong>implant rehabilitation in Pune?</strong></p>
+                           <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Full-Mouth-Rehabilitation.php" style="text-decoration:none !important; color:black !important;">implant rehabilitation in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
 
                         </div>
