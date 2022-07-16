@@ -883,7 +883,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                             <a class="moreless-button2" href="javascript:void()">Read more</a><br><br>
                             
-                            <p style="font-size:16px; line-height: 200%;">Looking for<strong> Dental Flap surgery in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for<strong><a href="Flap-Surgery-Gum-Treatments.php" style="text-decoration:none !important; color:black !important;"> Dental Flap surgery in Pune?</a></strong></p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
 
                         </div>
@@ -895,7 +895,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         <div class="root-info py-5">
                             <h5 style="font-family: Anton, sans-serif;" class="mb-3">WHEN</h5>
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> When to choose surgical treatment over conventional?</h2>
-                            <p style="font-size:16px; line-height: 200%;"><i class="fa fa-plus"></i> When a periodontal pocket becomes very deep, extending more than 3-4 mm in depth, it becomes impossible to completely restore the attachment apparatus of teeth only by using a non-surgical treatment like <strong>scaling and root planing</strong> or a <strong><a href="Root-Canal-Treatment.php">root canal treatment</a></strong>. Why?</p>
+                            <p style="font-size:16px; line-height: 200%;"><i class="fa fa-plus"></i> When a periodontal pocket becomes very deep, extending more than 3-4 mm in depth, it becomes impossible to completely restore the attachment apparatus of teeth only by using a non-surgical treatment like <strong><a href="Scaling-Polishing.php" style="text-decoration:none !important; color:black !important;"> scaling and root planing</a></strong> or a <strong><a href="Root-Canal-Treatment.php" style="text-decoration:none !important; color:black !important;">root canal treatment</a></strong>. Why?</p>
 
                             <p style="font-size:16px; line-height: 200%;"><i class="fa fa-plus"></i> First, it is almost impossible to completely remove dental plaque from deep periodontal pockets.</p>
 
@@ -908,7 +908,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                             <p style="font-size:16px; line-height: 200%;">Therefore, the only way to treat periodontitis that guarantees improvement is the one that will eliminate periodontal pockets.This can only be done using surgical treatments for periodontitis.</p>
                             
-                            <p style="font-size:16px; line-height: 200%;">Looking for good <strong>flap surgery in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for good <strong><a href="Flap-Surgery-Gum-Treatments.php" style="text-decoration:none !important; color:black !important;">flap surgery in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
 
                         </div>
@@ -943,7 +943,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                                 <li><i class="fa fa-plus"></i> Experienced dental surgeons with more than 10 years of experience</li>
 
                             </ul>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong>Best Gum Treatment in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Flap-Surgery-Gum-Treatments.php" style="text-decoration:none !important; color:black !important;">Best Gum Treatment in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
 
                         </div>
@@ -1047,7 +1047,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                               <a class="collapsed" data-toggle="collapse" data-parent="#accordionEx" href="#collapseThree4"
                                 aria-expanded="false" aria-controls="collapseThree4">
                                 <h5 style="font-family: Anton, sans-serif;" class="mb-0">
-                                   What if I want to get my <strong>tooth extracted?</strong> <i class="fa fa-angle-down rotate-icon"></i>
+                                   What if I want to get my <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">tooth extracted?</a></strong> <i class="fa fa-angle-down rotate-icon"></i>
                                 </h5>
                               </a>
                             </div>
@@ -1056,7 +1056,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <div id="collapseThree4" class="collapse" role="tabpanel" aria-labelledby="headingThree4"
                               data-parent="#accordionEx">
                               <div class="card-body">
-                                At GoBest Dentist we always prefer to save the natural tooth wherever possible. But if you don’t want to go for periodontal surgery, you can opt for <strong>extraction</strong> of tooth. We have variety of options for tooth replacement ranging from <strong>crown and bridges</strong> to <strong>Implants</strong>.
+                                At GoBest Dentist we always prefer to save the natural tooth wherever possible. But if you don’t want to go for periodontal surgery, you can opt for <strong><a href="Tooth-Extraction.php" style="text-decoration:none !important; color:black !important;">extraction</a></strong> of tooth. We have variety of options for tooth replacement ranging from <strong><a href="Crown-and-Bridges.php" style="text-decoration:none !important; color:black !important;">crown and bridges</a></strong> to <strong>Implants</strong>.
 
                               </div>
                             </div>
