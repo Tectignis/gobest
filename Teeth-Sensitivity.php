@@ -814,7 +814,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                     <div class="col-lg-7 root-info py-3">
                     <p style="font-size:16px; line-height: 200%;">Every person has sudden tooth sensitivity at least once: toothache when drinking cold or hot drinks, toothache when eating sweet or sour foods, pain when brushing teeth.</p>
                             <p style="font-size:16px; line-height: 200%;">While these symptoms are tolerable, they are ignored, but this is a sure sign that it is time to go to the dentist and find out the causes of increased sensitivity of the teeth, what is behind it, what to do with it and what means can be used to cure sensitive teeth.</p>
-                            <p style="font-size:16px; line-height: 200%;">Learn more from experts in <strong>teeth sensitivity in Pune.</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Learn more from experts in <strong><a href="Teeth-Sensitivity.php" style="text-decoration:none !important; color:black !important;">teeth sensitivity in Pune.</a></strong></p>
                  
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                  
@@ -932,7 +932,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                           <p style="font-size:16px; line-height: 200%;">In such cases, covering the teeth with a sealant or filling the fissures with a special <a href="Dental-Cavity-Fillings.php"> dental filling</a> material will be effective prophylaxis. Once the fissures are sealed, the grooves become smooth and shallow, making cleaning easier and bacteria can no longer grow there.</p>
                           <p style="font-size:16px; line-height: 200%;">Effective treatment of tooth sensitivity in the presence of micro cracks in the enamel or an open tooth neck - fluoridation, dental varnish coating. Fluoride polish strengthens teeth and promotes regeneration.</p>
                           <p style="font-size:16px; line-height: 200%;">In addition to these, diseases of gums and supporting tissues can be treated by simple procedures like <a href="Scaling-Polishing.php"> scaling and flap surgeries </a>  which will significantly reduce the amount of tooth sensitivity.</p>
-                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong>toothache treatment in Pune?</strong> </p>
+                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong><a href="Teeth-Sensitivity.php" style="text-decoration:none !important; color:black !important;">toothache treatment in Pune?</a></strong> </p>
                         </div>
                     </div>
                 </div>
