@@ -802,7 +802,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         <div class="root-info py-4">
                             <h5 style="font-family: Anton, sans-serif;" class="mb-3">WHAT</h5>
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3">  	What is staining of teeth?</h2>
-                            <p style="font-size:16px; line-height: 200%;"><strong>Teeth discoloration</strong> is change in color of your original teeth. Your teeth might not seem to be as whiter and as brighter as before and we don’t mean by only yellowish discoloration! Do you know that your teeth can be stained from yellow to brown or black and even purple? <br><br>
+                            <p style="font-size:16px; line-height: 200%;"><strong> <a href="Teeth-Discoloration-Stained-Teeth.php" style="text-decoration:none !important; color:black !important;">Teeth discoloration</a></strong> is change in color of your original teeth. Your teeth might not seem to be as whiter and as brighter as before and we don’t mean by only yellowish discoloration! Do you know that your teeth can be stained from yellow to brown or black and even purple? <br><br>
                           </p>
                      
                         </div>
@@ -835,7 +835,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <b> 6. White spots on the teeth</b><br>
                             In addition to dark and yellow spots on the teeth, there are also white ones, which can be either congenital or acquired during life.<br><br>
 </p>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong>stained teeth clinic in Pune?</strong> </p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Teeth-Discoloration-Stained-Teeth.php" style="text-decoration:none !important; color:black !important;">stained teeth clinic in Pune?</a></strong> </p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
 
                         </div>
