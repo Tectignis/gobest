@@ -817,7 +817,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <a class="moreless-button" href="javascript:void().">Read more</a>
                             <br><br>
 
-                           <p style="font-size:16px; line-height: 200%;"><strong>Looking for <a href="Braces-Orthodontic Treatment.php">Braces/orthodontic treatment in Pune?</a></strong></p>
+                           <p style="font-size:16px; line-height: 200%;"><strong>Looking for <a href="Braces-Orthodontic Treatment.php" style="text-decoration:none !important; color:black !important;">Braces/orthodontic treatment in Pune?</a></strong></p>
                                                         <a href="contact-us.php" class="btn mt-3"> CONTACT US </a>
 
                         </div>
@@ -832,7 +832,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> Who needs orthodontic treatment and why?</h2>
                             <p style="font-size:16px; line-height: 200%;">Confidence in your smile can positively change your life, which is why consulting with a dentist to help you create the healthiest and most attractive smile is so important.</p>
                           <p style="font-size:16px; line-height: 200%;">A beautiful, straight smile not only means your teeth are easier to brush, it also helps you gain confidence and reduce stress.</p>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> best dentist for braces in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Braces-Orthodontic Treatment.php" style="text-decoration:none !important; color:black !important;"> best dentist for braces in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
                         </div>
                     </div>
@@ -885,8 +885,8 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                            <p style="font-size:16px; line-height: 200%;">Orthodontic treatment has come a long way since the days of thick metal braces, bands and hats; today, modern orthodontic procedures are designed to be as unobtrusive and comfortable as possible, so that patients can live without embarrassment and discomfort.</p>
                       <p style="font-size:16px; line-height: 200%;">While braces are still an extremely effective way to straighten teeth and achieve a great smile. Modern orthodontic treatment options now include lingual (internal) braces and clear aligners.</p>
                       <p style="font-size:16px; line-height: 200%;">Our dentistry employs the best specialists who can offer you the most suitable treatment option.</p>
-                       <p style="font-size:16px; line-height: 200%;">You can also check if <strong> veneers </strong> is an option for you.</p>
-                      <p style="font-size:16px; line-height: 200%;">Looking for <strong>teeth braces specialist in Pune?</strong> </p>
+                       <p style="font-size:16px; line-height: 200%;">You can also check if <strong><a href="index.php" style="text-decoration:none !important; color:black !important;"> veneers </strong> is an option for you.</a></p>
+                      <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Braces-Orthodontic Treatment.php" style="text-decoration:none !important; color:black !important;">teeth braces specialist in Pune?</a></strong> </p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
 
                         </div>
@@ -980,7 +980,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <div id="collapseTwo2" class="collapse" role="tabpanel" aria-labelledby="headingTwo2"
                               data-parent="#accordionEx">
                               <div class="card-body">
-                              In modern orthodontics, too, the <a href="javascript:void()"> extraction </a> of permanent teeth makes sense in certain situations. This can be the case if the teeth are too large for the jaw, so that they cannot be positioned axially and stably on the dental arch. It may also be necessary to remove permanent teeth to correct jaw misalignments. Before we advise you to do so, however, we always carefully check whether there are alternatives.
+                              In modern orthodontics, too, the <a href="Tooth-Extraction.php"> extraction </a> of permanent teeth makes sense in certain situations. This can be the case if the teeth are too large for the jaw, so that they cannot be positioned axially and stably on the dental arch. It may also be necessary to remove permanent teeth to correct jaw misalignments. Before we advise you to do so, however, we always carefully check whether there are alternatives.
                               </div>
                             </div>
 
