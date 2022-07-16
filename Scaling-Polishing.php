@@ -854,7 +854,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             </ul>
                             <p style="font-size:16px; line-height: 200%;" class="moretext1">After deep cleaning, the tools are used to plan or smooth all root surfaces. These techniques help the gums to reconnect to the roots of the teeth and reduce long-term gum problems such as bleeding and inflammation.<br>As with most medical procedures, it is important to note that there may be some symptoms immediately after root scaling and planning like a little sensitivity in teeth. It is important to anticipate these symptoms and to know how to maintain the post-procedure gum health.</p>
                             <a class="moreless-button1" href="javascript:void()">Read more</a>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> best teeth cleaning in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Scaling-Polishing.php" style="text-decoration:none !important; color:black !important;"> best teeth cleaning in Pune?,</a></strong></p>
                             <a  href="tel:+917264889986;" class="btn mt-3">CALL US NOW </a>
 
                         </div>
@@ -938,7 +938,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                           <p style="font-size:16px; line-height: 200%;">If pockets larger than 3 mm are still present after the initial treatment, additional treatment may be recommended.</p>
                          <p style="font-size:16px; line-height: 200%;">Good oral hygiene practices and constant long-term follow-up of your dentists are essential to prevent periodontal disease from developing into a more serious and / or chronic condition that may require surgery. </p>
                          <p style="font-size:16px; line-height: 200%;">This is important, especially given the growing body of clinical evidence indicating a strong link between periodontal disease and secondary conditions such as cardiovascular disease, low birth weight babies, and preterm birth.</p>
-                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong> teeth scaling and polishing in Pune?</strong></p>
+                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong> <a href="Scaling-Polishing.php" style="text-decoration:none !important; color:black !important;">teeth scaling and polishing in Pune?</a></strong></p>
                           <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                         </div>
                   </div>
