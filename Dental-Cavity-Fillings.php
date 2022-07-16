@@ -892,7 +892,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                 <div class="root-info py-4">
                     <h5 style="font-family: Anton, sans-serif;" class="mb-3">TYPES</h5>
                     <h2 style="font-family: Anton, sans-serif;" class="mb-3"> Cement fillings</h2>
-                    <p style="font-size:16px; line-height: 200%;">We mainly use glass ionomer cement for cement fillings. This is a good material for long-term temporary restorations, i.e. the tooth is temporarily filled with cement, for example because it needs to be crowned soon. They are also frequently used in cases of cervical abrasion which is a common occurrence with increasing age. A type of glass ionomer cement is also use to stick crowns especially after <strong><a href="Root-Canal-Treatment.php" style="text-decoration:none !important; color:black !important;> root canal treatment</a></strong>.</p>
+                    <p style="font-size:16px; line-height: 200%;">We mainly use glass ionomer cement for cement fillings. This is a good material for long-term temporary restorations, i.e. the tooth is temporarily filled with cement, for example because it needs to be crowned soon. They are also frequently used in cases of cervical abrasion which is a common occurrence with increasing age. A type of glass ionomer cement is also use to stick crowns especially after <strong><a href="Root-Canal-Treatment.php" style="text-decoration:none !important; color:black !important;"> root canal treatment</a></strong>.</p>
                 </div>
             </div>
         </div>
