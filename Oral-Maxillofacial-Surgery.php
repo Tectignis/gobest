@@ -844,7 +844,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                            
                             <a class="moreless-button2" href="javascript:void().">Read more</a>
                             <br><br>
-                              <p style="font-size:16px; line-height: 200%;">Searching for <strong> oral and maxillofacial surgery treatment </strong>?</p>
+                              <p style="font-size:16px; line-height: 200%;">Searching for <strong><a href="Oral-Maxillofacial-Surgery.php" style="text-decoration:none !important; color:black !important;"> oral and maxillofacial surgery treatment</a> </strong>?</p>
                               <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
                         
                             </div>
@@ -927,7 +927,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
 
                                     </ul>
-                                <p style="font-size:16px; line-height: 200%;">Looking for <strong>oral and maxillofacial surgeon in Pimpri Chinchwad?</strong> </p>
+                                <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Oral-Maxillofacial-Surgery.php" style="text-decoration:none !important; color:black !important;">oral and maxillofacial surgeon in Pimpri Chinchwad?</a></strong> </p>
                                     <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
 
                             </div>
