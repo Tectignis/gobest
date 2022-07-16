@@ -866,7 +866,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
 
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> teeth whitening dentist in Pimpri Chinchwad?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <a href="index.php"> <strong> teeth whitening dentist in Pimpri Chinchwad?</strong></a></p>
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                          
 
