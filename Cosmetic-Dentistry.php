@@ -99,7 +99,7 @@ jQuery(window).scroll(function() {
 <script src="wp-content/themes/clove/js/jquery.js"></script>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="description" content="Reach out to the Clove Dental Helpline or book an appointment online at Clove Dental here to put all your oral worries away."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Contact Us - Clove Dental" />
@@ -110,8 +110,8 @@ jQuery(window).scroll(function() {
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/clovedental.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -142,7 +142,7 @@ var es_data = {"messages":{"es_empty_email_notice":"Please enter email address",
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public5560.js?ver=5.0.4' id='email-subscribers-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.php" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.7.2" />
 <link rel='shortlink' href='indexbde5.html?p=80' />
@@ -894,7 +894,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                            <a class="moreless-button1" href="javascript:void()">Read more</a>
                             <br><br>
                             
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong>best cosmetic dentist in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Cosmetic-Dentistry.php" style="text-decoration:none !important; color:black !important;">best cosmetic dentist in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US</a>
 
                         </div>
@@ -936,7 +936,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                 <div class="root-info py-4">
                 <h2 style="font-family: Anton, sans-serif;" class="mb-3"> Orthodontics</h2>
                 <p style="font-size:16px; line-height: 200%;">Improper positioning of teeth will not only cause problems in your appearance but it can also adversely affect your bite and thus disrupt the oral function. We provide orthodontic treatment to correct everything from crooked teeth to gaps between teeth using devices which may be either fixed or removable.</p>
-                <p style="font-size:16px; line-height: 200%;"><a href="\change\Braces-Orthodontic Treatment.php"> Click here</a> to know more about the types of braces available at GoBest Dentist. </p>
+                <p style="font-size:16px; line-height: 200%;"><a href="Braces-Orthodontic Treatment.php"> Click here</a> to know more about the types of braces available at GoBest Dentist. </p>
 
                 </div>
             </div>
@@ -946,8 +946,8 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
             <div class="col-lg-12">
                 <div class="root-info py-4">
                 <h2 style="font-family: Anton, sans-serif;" class="mb-3"> Teeth whitening</h2>
-                <p style="font-size:16px; line-height: 200%;"><a href="\change\Teeth-Whitening.php">Teeth whitening</a> also known as bleaching of teeth can be done either at home or at a dental clinic by a dental professional. At GoBest Dentist we use a special light to safely whiten your teeth using a whitening agent that is directly applied to your teeth.</p>
-                <p style="font-size:16px; line-height: 200%;"><a href="\change\Teeth-Whitening.php"> Click here</a> to know in detail about the pre and post care for undergoing a teeth whitening procedure.</p>
+                <p style="font-size:16px; line-height: 200%;"><a href="Teeth-Whitening.php">Teeth whitening</a> also known as bleaching of teeth can be done either at home or at a dental clinic by a dental professional. At GoBest Dentist we use a special light to safely whiten your teeth using a whitening agent that is directly applied to your teeth.</p>
+                <p style="font-size:16px; line-height: 200%;"><a href="Teeth-Whitening.php"> Click here</a> to know in detail about the pre and post care for undergoing a teeth whitening procedure.</p>
 
 
                 </div>
@@ -961,7 +961,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                 <p style="font-size:16px; line-height: 200%;">Composite is a tooth coloured filling material which is superior to amalgam (silver) filling in terms of both appearance as well as safety since it is a mercury free material. It can be used to correct minor damage and gaps between the teeth.</p>
                 <p style="font-size:16px; line-height: 200%;" class="moretext4">It is a quick and a reliable way to fix minor defects and can perfectly customized to match the exact shade of your natural teeth. It is a minimally invasive procedure which means major part of your natural tooth will remain intact. But there is one drawback of composite filling that it is not as strong as a silver amalgam filling for very large defects. However majority of the defects can safely be restored by using composite fillings.</p>
                 <a class="moreless-button4" href="javascript:void()">Read more</a><br><br>
-                <p style="font-size:16px; line-height: 200%;">Looking for <strong>best cosmetic dentistry in Pune?</strong></p>
+                <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Cosmetic-Dentistry.php" style="text-decoration:none !important; color:black !important;">best cosmetic dentistry in Pune?</a></strong></p>
                 <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT</a>
                 </div>
             </div>
@@ -974,7 +974,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                 <p style="font-size:16px; line-height: 200%;">Everyone does not have a perfect gum line. Some have it high, some are low and some may have uneven gum line. At GoBest Dentist we have options to correct your gum line by a simple surgical procedure of sculpting your gums.</p>
                 <p style="font-size:16px; line-height: 200%;" class="moretext5">The entire procedure is carried out after numbing the concerned area so you will not feel any pain. We use a soft tissue laser to remove excess gum tissue or to reshape it. Sutures might be needed to hold the gums into the new position. You might feel a little tenderness over the area after the numbness wards off but it can be easily managed by medications.</p>
                 <a class="moreless-button5" href="javascript:void()">Read more</a><br><br>
-                <p style="font-size:16px; line-height: 200%;">Looking for <strong>cosmetic dentist in Pune?</strong></p>
+                <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Cosmetic-Dentistry.php" style="text-decoration:none !important; color:black !important;">cosmetic dentist in Pune?</a></strong></p>
                 <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT</a>
                 </div>
             </div>

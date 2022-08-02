@@ -47,7 +47,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <script defer async src="https://www.googletagmanager.com/gtag/js?id=UA-58837352-1"></script>
 
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Best Dentists and Dental Clinics Near You | Largest Dental Chain India" />
@@ -1080,7 +1080,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <?php $link="select * from offer";
     $reviews = mysqli_query($conn,$link);
     while($row = mysqli_fetch_array($reviews)) {?>
-                        <div class="footer-cta d-lg-flex" style="background-image:url(adm/pages/forms/image/<?php echo $row["image"]; ?>)">
+                        <div class="footer-cta d-lg-flex" style="background-image:url(admin/pages/forms/image/<?php echo $row["image"]; ?>)">
                         <?php } ?>
                         
                             <div class="ad-price">
@@ -1113,7 +1113,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <button class="button-50" onclick="openCity(event, 'wakad')">WAKAD <span>BRANCH</span>	</button> 
   <button class="button-50 active" onclick="openCity(event, 'baner')">BANER <span>BRANCH</span></button>
   <button class="button-50" onclick="openCity(event, 'pimple')"><span>PIMPLE</span> SAUDAGAR</button> 
-  <button class="button-50" onclick="openCity(event, 'hinjewadi')"><span>HINJEWADI</span> BRANCH</button> 
+  <button class="button-50" onclick="openCity(event, 'hinjewadi')">HINJEWADI</button> 
   
 </div>
 

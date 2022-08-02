@@ -99,7 +99,7 @@ jQuery(window).scroll(function() {
 <script src="wp-content/themes/clove/js/jquery.js"></script>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="description" content="Reach out to the Clove Dental Helpline or book an appointment online at Clove Dental here to put all your oral worries away."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Contact Us - Clove Dental" />
@@ -110,8 +110,8 @@ jQuery(window).scroll(function() {
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/clovedental.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -142,7 +142,7 @@ var es_data = {"messages":{"es_empty_email_notice":"Please enter email address",
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public5560.js?ver=5.0.4' id='email-subscribers-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.php" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.7.2" />
 <link rel='shortlink' href='indexbde5.html?p=80' />
@@ -823,7 +823,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> What is Scaling and Root planning?</h2>
                             <p style="font-size:16px; line-height: 200%;">With the combination of our daily meals and drinks, the natural build-up of dental plaque can occur up on our teeth. While regular brushing can help remove this, it can harden into tartar if left intact and lead to a variety of dental health complications including gum disease and tooth decay.</p>
                            <p style="font-size:16px; line-height: 200%;">A simple cleaning only affects the area above the gum line. Root scaling and planning is a thorough cleaning of the tooth and root surface below the gum line.</p>
-                            <p style="font-size:16px; line-height: 200%;" class="moretext">Dental scaling and root planning is a common non-surgical procedure that helps remove bothersome plaque and tartar from teeth by cleaning both above and below the gum line. This process is necessary to help the teeth reattach to healthier gums.Scaling and root planning help to treat the gum diseases which are chronic in nature.<br><br>Like a <a href="\change\Root-Canal-Treatment.php"> root canal treatment</a>, It generally takes more than one dental visit to complete the entire process of scaling and root planning. You might require local anaesthesia of you have very severe gum disease. Receding gums might also require local anesthesia as they might be sensitive to the procedure.</p>
+                            <p style="font-size:16px; line-height: 200%;" class="moretext">Dental scaling and root planning is a common non-surgical procedure that helps remove bothersome plaque and tartar from teeth by cleaning both above and below the gum line. This process is necessary to help the teeth reattach to healthier gums.Scaling and root planning help to treat the gum diseases which are chronic in nature.<br><br>Like a <a href="Root-Canal-Treatment.php"> root canal treatment</a>, It generally takes more than one dental visit to complete the entire process of scaling and root planning. You might require local anaesthesia of you have very severe gum disease. Receding gums might also require local anesthesia as they might be sensitive to the procedure.</p>
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
 
@@ -854,7 +854,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             </ul>
                             <p style="font-size:16px; line-height: 200%;" class="moretext1">After deep cleaning, the tools are used to plan or smooth all root surfaces. These techniques help the gums to reconnect to the roots of the teeth and reduce long-term gum problems such as bleeding and inflammation.<br>As with most medical procedures, it is important to note that there may be some symptoms immediately after root scaling and planning like a little sensitivity in teeth. It is important to anticipate these symptoms and to know how to maintain the post-procedure gum health.</p>
                             <a class="moreless-button1" href="javascript:void()">Read more</a>
-                            <p style="font-size:16px; line-height: 200%;">Looking for <strong> best teeth cleaning in Pune?</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Looking for <strong><a href="Scaling-Polishing.php" style="text-decoration:none !important; color:black !important;"> best teeth cleaning in Pune?,</a></strong></p>
                             <a  href="tel:+917264889986;" class="btn mt-3">CALL US NOW </a>
 
                         </div>
@@ -903,9 +903,9 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                                 <li><i class="fa fa-plus"></i> It can promote healing of gums.</li>
                                 <li><i class="fa fa-plus"></i> It can treat infections in the gums.</li>
                                 <li><i class="fa fa-plus"></i> It can clean the inaccessible areas like areas below your gumline.</li>
-                                <li><i class="fa fa-plus"></i> It can remove extrinsic stains and enhance your smile ( for other stains see <a href="\change\Teeth-Whitening.php">teeth whitening</a>).</li>
+                                <li><i class="fa fa-plus"></i> It can remove extrinsic stains and enhance your smile ( for other stains see <a href="Teeth-Whitening.php">teeth whitening</a>).</li>
                                 <li><i class="fa fa-plus"></i> It can prevent and treat halitosis(bad breath).</li>
-                                <li><i class="fa fa-plus"></i> It can protect the root of your teeth which acts as foundation from disease causing bacterias thus save you from <a href="\change\Tooth-Extraction.php">extraction of teeth.</a></li>
+                                <li><i class="fa fa-plus"></i> It can protect the root of your teeth which acts as foundation from disease causing bacterias thus save you from <a href="Tooth-Extraction.php">extraction of teeth.</a></li>
                              
                           
                           
@@ -920,7 +920,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                       <div class="root-info py-5">
                           <h5 style="font-family: Anton, sans-serif;" class="mb-3">HOW</h5>
                           <h2 style="font-family: Anton, sans-serif;" class="mb-3">How is it done?</h2>
-                         <p style="font-size:16px; line-height: 200%;">The process of scaling is as simple as getting a <a href="\change\Dental-Cavity-Fillings.php"> dental filling</a>. This procedure usually takes longer than regular brushing, so we can schedule extra time or brush only a quarter or half of your mouth at a time. We can use either a hand-held scraping instrument or an ultrasonic instrument, which is a tiny vibrating stick that breaks down plaque. We can use a local anesthetic during the procedure to "numb" the area for added comfort. </p>
+                         <p style="font-size:16px; line-height: 200%;">The process of scaling is as simple as getting a <a href="Dental-Cavity-Fillings.php"> dental filling</a>. This procedure usually takes longer than regular brushing, so we can schedule extra time or brush only a quarter or half of your mouth at a time. We can use either a hand-held scraping instrument or an ultrasonic instrument, which is a tiny vibrating stick that breaks down plaque. We can use a local anesthetic during the procedure to "numb" the area for added comfort. </p>
                           <p style="font-size:16px; line-height: 200%;" class="moretext2">
                           The bacteria live in plaque and feed on the sugar you eat and drink, releasing toxins that cause gingivitis (i.e., infected, red, swollen, and bleeding gums). This can eventually lead to gum disease if the plaque is not removed from the teeth, causing the gums to flake off from the teeth, leaving pockets or spaces for tartar and bacteria. <br><br>If you already have gum disease, this plaque has already formed under the gum tissue and along the root of the tooth. This makes it nearly impossible to access and remove bacteria with a conventional toothbrush.   
                           </p>
@@ -938,7 +938,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                           <p style="font-size:16px; line-height: 200%;">If pockets larger than 3 mm are still present after the initial treatment, additional treatment may be recommended.</p>
                          <p style="font-size:16px; line-height: 200%;">Good oral hygiene practices and constant long-term follow-up of your dentists are essential to prevent periodontal disease from developing into a more serious and / or chronic condition that may require surgery. </p>
                          <p style="font-size:16px; line-height: 200%;">This is important, especially given the growing body of clinical evidence indicating a strong link between periodontal disease and secondary conditions such as cardiovascular disease, low birth weight babies, and preterm birth.</p>
-                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong> teeth scaling and polishing in Pune?</strong></p>
+                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong> <a href="Scaling-Polishing.php" style="text-decoration:none !important; color:black !important;">teeth scaling and polishing in Pune?</a></strong></p>
                           <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                         </div>
                   </div>

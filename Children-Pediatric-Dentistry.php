@@ -104,7 +104,7 @@ jQuery(window).scroll(function() {
 <script src="wp-content/themes/clove/js/jquery.js"></script>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="description" content="Reach out to the Clove Dental Helpline or book an appointment online at Clove Dental here to put all your oral worries away."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Contact Us - Clove Dental" />
@@ -115,8 +115,8 @@ jQuery(window).scroll(function() {
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/clovedental.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -147,7 +147,7 @@ var es_data = {"messages":{"es_empty_email_notice":"Please enter email address",
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public5560.js?ver=5.0.4' id='email-subscribers-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.php" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.7.2" />
 <link rel='shortlink' href='indexbde5.html?p=80' />
@@ -807,7 +807,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <p style="font-size:18px; line-height: 200%;" class="moretext">Although children have milk teeth, it is very essential to teach them proper oral hygiene habits that they must follow daily. It is essential that they learn to take care of the health of their oral cavity from a very young age in order to prevent dental problems in the future.<br>In addition, the health of permanent teeth is closely related to the state of children's mouths. For this reason, it is essential that they know how to take care of their teeth from their childhood. Thus, they will avoid suffering anomalies or diseases that may affect their dental development.</p>
                             <a class="moreless-button" href="javascript:void()">Read more</a>
                             <br><br>
-                            <p style="font-size:18px; line-height: 200%;">Looking for <strong> children dentist in Pune?</strong></p>
+                            <p style="font-size:18px; line-height: 200%;">Looking for <strong><a href="Children-Pediatric-Dentistry.php" style="text-decoration:none !important; color:black !important;"> children dentist in Pune?</a></strong></p>
                             <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
                         </div>
                     </div>
@@ -831,7 +831,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         </div></div>
                                  <div class="col-lg-7">
                                  <div class="root-info py-3">
-                                     <p style="font-size:18px; line-height: 200%;">We continue with this list talking about another very common paediatric dentistry treatment among children. Pulpectomy is a treatment similar to <a href="\change\Root-Canal-Treatment.php"> Root canal treatment </a> that is performed in adults, but with the difference that, in the case of children, caries will be affecting a baby tooth.<br>Remember that endodontics is the treatment applied to adult teeth when a cavity appears that reaches the pulp of the tooth.</p>
+                                     <p style="font-size:18px; line-height: 200%;">We continue with this list talking about another very common paediatric dentistry treatment among children. Pulpectomy is a treatment similar to <a href="Root-Canal-Treatment.php"> Root canal treatment </a> that is performed in adults, but with the difference that, in the case of children, caries will be affecting a baby tooth.<br>Remember that endodontics is the treatment applied to adult teeth when a cavity appears that reaches the pulp of the tooth.</p>
                                  </div>
                                     </div>
                                  </div>
@@ -852,7 +852,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         <li><b>4. Fluoride application</b><br>
                           
                                      <p style="font-size:18px; line-height: 200%;">This technique includes application of fluoride to the child’s teeth, a method that is usually carried out to harden the enamel of the teeth and allow children to have strong and healthy teeth.</p>
-                                     <p style="font-size:18px; line-height: 200%;">Looking for <strong> best paediatric dentist in Pune?</strong></p>
+                                     <p style="font-size:18px; line-height: 200%;">Looking for <strong> <a href="Children-Pediatric-Dentistry.php" style="text-decoration:none !important; color:black !important;"> best paediatric dentist in Pune?</a></strong></p>
                        <a href="contact-us.php" class="btn mt-3">CONTACT US </a>
                         </li><br><br>
                      
@@ -869,13 +869,13 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                         </div></div>
                                  <div class="col-lg-7">
                                  <div class="root-info py-3">
-                                     <p style="font-size:18px; line-height: 200%;">These prostheses are used when young children lose a tooth or it is removed due to a large cavity. As the name implies, it is to conserve space for the future definitive piece. <br>They are made to measure by the dentist or orthodontist of acrylic or metallic material and can be removable or fixed. If the space of the missing tooth is not maintained, those that come out can move towards the open space and later originate an <strong>orthodontic treatment</strong>.<br>These are some of the most common paediatric dentistry treatments performed in the dentist's office. It is important that, at least once a year, you take your son or daughter to the annual check-up to check their oral health. </p>
+                                     <p style="font-size:18px; line-height: 200%;">These prostheses are used when young children lose a tooth or it is removed due to a large cavity. As the name implies, it is to conserve space for the future definitive piece. <br>They are made to measure by the dentist or orthodontist of acrylic or metallic material and can be removable or fixed. If the space of the missing tooth is not maintained, those that come out can move towards the open space and later originate an <strong><a href="Braces-Orthodontic Treatment.php" style="text-decoration:none !important; color:black !important;"> orthodontic treatment</a></strong>.<br>These are some of the most common paediatric dentistry treatments performed in the dentist's office. It is important that, at least once a year, you take your son or daughter to the annual check-up to check their oral health. </p>
                                      <p style="font-size:18px; line-height: 200%;" class="moretext1">Proper prevention is essential for permanent teeth to grow healthy and strong in the future.
 <br>Visiting a dentist annually is essential to ensure that your child is in strong and safe health. In addition, it is the responsibility of the parents to instruct them in the daily care and hygiene of the teeth, so do not miss it!
 <br>Baby teeth are more important than we think as they contribute to the development of future teeth, bones and jaw muscles.
 </p>
                             <a class="moreless-button1" href="javascript:void()">Read more</a>
-                            <p style="font-size:18px; line-height: 200%;"><strong>Best kids dentist near me?</strong></p>
+                            <p style="font-size:18px; line-height: 200%;"><strong<a href="Children-Pediatric-Dentistry.php" style="text-decoration:none !important; color:black !important;"> >Best kids dentist near me?</a></strong></p>
                        <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                                     </div>
                                     </div>

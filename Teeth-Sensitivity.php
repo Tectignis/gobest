@@ -99,7 +99,7 @@ jQuery(window).scroll(function() {
 <script src="wp-content/themes/clove/js/jquery.js"></script>
 <meta name='robots' content='max-image-preview:large' />
 <meta name="description" content="Reach out to the Clove Dental Helpline or book an appointment online at Clove Dental here to put all your oral worries away."/>
-<link rel="canonical" href="index.html" />
+<link rel="canonical" href="index.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="article" />
 <meta property="og:title" content="Contact Us - Clove Dental" />
@@ -110,8 +110,8 @@ jQuery(window).scroll(function() {
 <!-- / Yoast WordPress SEO plugin. -->
 
 <link rel='dns-prefetch' href='http://s.w.org/' />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.html" />
-<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.html" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.php" />
+<link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed" href="comments/feed/index.php" />
 		<script type="text/javascript">
 			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/clovedental.in\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.7.2"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
@@ -142,7 +142,7 @@ var es_data = {"messages":{"es_empty_email_notice":"Please enter email address",
 /* ]]> */
 </script>
 <script type='text/javascript' src='wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public5560.js?ver=5.0.4' id='email-subscribers-js'></script>
-<link rel="https://api.w.org/" href="wp-json/index.html" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
+<link rel="https://api.w.org/" href="wp-json/index.php" /><link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" /> 
 <meta name="generator" content="WordPress 5.7.2" />
 <link rel='shortlink' href='indexbde5.html?p=80' />
@@ -814,7 +814,7 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                     <div class="col-lg-7 root-info py-3">
                     <p style="font-size:16px; line-height: 200%;">Every person has sudden tooth sensitivity at least once: toothache when drinking cold or hot drinks, toothache when eating sweet or sour foods, pain when brushing teeth.</p>
                             <p style="font-size:16px; line-height: 200%;">While these symptoms are tolerable, they are ignored, but this is a sure sign that it is time to go to the dentist and find out the causes of increased sensitivity of the teeth, what is behind it, what to do with it and what means can be used to cure sensitive teeth.</p>
-                            <p style="font-size:16px; line-height: 200%;">Learn more from experts in <strong>teeth sensitivity in Pune.</strong></p>
+                            <p style="font-size:16px; line-height: 200%;">Learn more from experts in <strong><a href="Teeth-Sensitivity.php" style="text-decoration:none !important; color:black !important;">teeth sensitivity in Pune.</a></strong></p>
                  
                             <a href="javascript:void()" onclick="openNav()" class="btn mt-3 toggle1 display">BOOK AN APPOINTMENT </a>
                  
@@ -929,10 +929,10 @@ $('.patient_safety').click(function(){ $('.dropdown_patient_safety').toggleClass
                             <h5 style="font-family: Anton, sans-serif;" class="mb-3">HOW</h5>
                             <h2 style="font-family: Anton, sans-serif;" class="mb-3"> How can we help you?</h2>
                             <p style="font-size:16px; line-height: 200%;">The most important measures to protect your teeth from dental disease are regularly brushing your teeth correctly and removing food debris from and between your teeth after meals. Natural depressions, or grooves, on the chewing surface of molars are ideal places for bacteria to grow due to the inability to clean them well enough.</p>
-                          <p style="font-size:16px; line-height: 200%;">In such cases, covering the teeth with a sealant or filling the fissures with a special <a href="\change\Dental-Cavity-Fillings.php"> dental filling</a> material will be effective prophylaxis. Once the fissures are sealed, the grooves become smooth and shallow, making cleaning easier and bacteria can no longer grow there.</p>
+                          <p style="font-size:16px; line-height: 200%;">In such cases, covering the teeth with a sealant or filling the fissures with a special <a href="Dental-Cavity-Fillings.php"> dental filling</a> material will be effective prophylaxis. Once the fissures are sealed, the grooves become smooth and shallow, making cleaning easier and bacteria can no longer grow there.</p>
                           <p style="font-size:16px; line-height: 200%;">Effective treatment of tooth sensitivity in the presence of micro cracks in the enamel or an open tooth neck - fluoridation, dental varnish coating. Fluoride polish strengthens teeth and promotes regeneration.</p>
-                          <p style="font-size:16px; line-height: 200%;">In addition to these, diseases of gums and supporting tissues can be treated by simple procedures like <a href="\change\Scaling-Polishing.php"> scaling and flap surgeries </a>  which will significantly reduce the amount of tooth sensitivity.</p>
-                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong>toothache treatment in Pune?</strong> </p>
+                          <p style="font-size:16px; line-height: 200%;">In addition to these, diseases of gums and supporting tissues can be treated by simple procedures like <a href="Scaling-Polishing.php"> scaling and flap surgeries </a>  which will significantly reduce the amount of tooth sensitivity.</p>
+                          <p style="font-size:16px; line-height: 200%;">Looking for best <strong><a href="Teeth-Sensitivity.php" style="text-decoration:none !important; color:black !important;">toothache treatment in Pune?</a></strong> </p>
                         </div>
                     </div>
                 </div>

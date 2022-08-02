@@ -89,7 +89,7 @@ include("include/config.php") ?>
   <meta name='robots' content='max-image-preview:large' />
   <meta name="description"
     content="Reach out to the Clove Dental Helpline or book an appointment online at Clove Dental here to put all your oral worries away." />
-  <link rel="canonical" href="index.html" />
+  <link rel="canonical" href="index.php" />
   <meta property="og:locale" content="en_US" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="Contact Us - Clove Dental" />
@@ -101,9 +101,9 @@ include("include/config.php") ?>
   <!-- / Yoast WordPress SEO plugin. -->
 
   <link rel='dns-prefetch' href='http://s.w.org/' />
-  <link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.html" />
+  <link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Feed" href="feed/index.php" />
   <link rel="alternate" type="application/rss+xml" title="Clove Dental &raquo; Comments Feed"
-    href="comments/feed/index.html" />
+    href="comments/feed/index.php" />
   <script type="text/javascript">
     window._wpemojiSettings = {
       "baseUrl": "https:\/\/s.w.org\/images\/core\/emoji\/13.0.1\/72x72\/",
@@ -207,7 +207,7 @@ include("include/config.php") ?>
   <script type='text/javascript'
     src='wp-content/plugins/email-subscribers/lite/public/js/email-subscribers-public5560.js?ver=5.0.4'
     id='email-subscribers-js'></script>
-  <link rel="https://api.w.org/" href="wp-json/index.html" />
+  <link rel="https://api.w.org/" href="wp-json/index.php" />
   <link rel="alternate" type="application/json" href="wp-json/wp/v2/pages/80.json" />
   <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc0db0.php?rsd" />
   <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
