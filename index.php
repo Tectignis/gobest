@@ -682,6 +682,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                     <img src="wp-content/themes/clove-child/images/AFFORDABLE-DENTISTS.webp" alt="Why choose us"
                                         class="img-fluid p-xl-2">
                                 </div>
+                                
                                 <div class="col-12 pt-2 px-3">
                                     <h5>AFFORDABLE DENTISTS</h5>
                                     <p>The best affordable dental care, for your family.</p>
